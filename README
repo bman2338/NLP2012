@@ -1,1 +1,31 @@
-qweqweq
+ngram.py - Uni/Bi-gram finder and sentence generator
+
+	Run from the command line using the following command
+	
+		python ngram.py -f <filename> [options]
+
+	<filename> is the path to the corpus file you would like to parse
+
+
+	Options:
+		 
+		 -s enables stemming
+			default: disabled
+			python ngram.py -f Dataset3/train.txt -s
+		
+		 -f <filename> adds <filename> to the train set
+			python ngram.py -f Dataset3/Train.txt -f Dataset3/Test.txt
+
+		 -w <word> sets <word> as the first word in the sentence generator, otherwise chosen randomly
+			default: random word from corpus
+			python ngram.py -f Dataset3/Train.txt -w once
+
+		 -l <length> sets the sentence length to the number <length>
+			default: 20	
+
+		 -p <length> sets the passage length to the number <length>
+			default: 100
+
+	Example:
+		
+		python ngram.py -f Dataset3/Train.txt -f Dataset3/Test.txt -w the -l 15 -p 5 -s
