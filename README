@@ -15,12 +15,15 @@ ngram.py - Uni/Bi-gram finder and sentence generator
 		
 		 -f <filename> adds <filename> to the train set
 			python ngram.py -f Dataset3/Train.txt -f Dataset3/Test.txt
+			
+		 -pp <filename> calculates the perplexity of the model given <filename> as test data
+		    python ngram.py -f Dataset3/Train.txt -pp Dataset3/Test.txt
 
 		 -w <word> sets <word> as the first word in the sentence generator, otherwise chosen randomly
 			default: random word from corpus
 			python ngram.py -f Dataset3/Train.txt -w once
 
-		 -l <length> sets the sentence length to the number <length>
+		 -l <length> sets the minimum sentence length to the number <length>
 			default: 20	
 
 		 -p <length> sets the passage length to the number <length>

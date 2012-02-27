@@ -1,3 +1,4 @@
+import math
 import nltk
 import random
 import sys
@@ -5,6 +6,7 @@ import sys
 from nltk.corpus import brown
 
 stemming_enabled = False
+perplexity = None
 train = []
 seed_word = ''
 sent_len = 20
@@ -32,6 +34,13 @@ while arg < len(sys.argv):
 			print 'ERROR: -f <filename> missing parameter <filename>'
 			exit(1)
 		train.append(open(sys.argv[arg], 'r'))
+	# -pp <filename> calculates the perplexity of the model given <filename> as test data
+	elif sys.argv[arg] == '-pp':
+		arg += 1
+		if arg > len(sys.argv):
+			print 'ERROR: -f <filename> missing parameter <filename>'
+			exit(1)
+		perplexity = open(sys.argv[arg], 'r')
 	# -w <word> sets <word> as the first word in the sentence generator, otherwise chosen randomly
 	elif sys.argv[arg] == '-w':
 		arg += 1
@@ -39,7 +48,7 @@ while arg < len(sys.argv):
 			print 'ERROR: -w <word> missing parameter <word>'
 			exit(1)
 		seed_word = sys.argv[arg].lower() 
-	# -l <length> sets the sentence length to the number <length>
+	# -l <length> sets the minimum sentence length to the number <length>
 	elif sys.argv[arg] == '-l':
 		arg += 1
 		if arg > len(sys.argv):
@@ -94,32 +103,92 @@ for words in train_words:
 	unigram[words[i].lower()] += 1
 	# Set the starting word for the sentence generator
 	if seed_word == '':
-		seed_word = words[i].lower()
+		seed_word = random_word()
 
 # If seed_word is invalid, randomize seed_word
 if seed_word not in bigram:
 	seed_word = random_word()
+	
+		
+# Count entries in models, for perplexity
+total_uni=0
+total_big=0
+for words in unigram:
+	total_uni+=unigram[words]
+	
+for key, dicts in bigram.items():
+	for key,value in dicts.items():
+		total_big+=value
+	
+			
+#calculates perplexity, pass sentence sent & model='u' or 'b'
+def perp(sent, model):
+	p=0
+	n=0
+	#retokenize
+	sent2 = nltk.tokenize.regexp_tokenize(sent, pattern)
+	n += len(sent2)
+	#pr (A)*pr(b)*pr(C)...^(-1/n)
+	if model=='u':
+		for words in sent2:
+			if words.lower() in unigram:
+				p+=math.log(unigram[words.lower()]/float(total_uni))
+		p = math.pow(math.e, p)
+		p=math.pow(p, -1/n)
+	#pr(A)*(B|A)...^(-1/n)
+	if model=='b': 
+		if sent2[0].lower() in unigram:
+			p*=unigram[sent2[0].lower()]/float(total_uni)
+		for i in range(0,n-2):
+			if sent2[i].lower() in bigram:
+				if sent2[i+1].lower() in bigram[sent2[i].lower()]:
+					p+=math.log(bigram[sent2[i].lower()][sent2[i+1].lower()]/float(total_big))
+		p = math.pow(math.e, p)
+		p=math.pow(p, -1/n)
+		
+	return p
 
 # Generate a random passage of pass_len sentences each of sent_len words 
 curr_word = seed_word
+prev_word = ''
 for k in range(0, pass_len):
+	i = 0
 	sent = curr_word.capitalize()
 	early_term = False
-	for i in range(0, sent_len-1):
+	while True:
 		# Set of possible next words with relative frequency matching that of the corpus
 		possible_words = []
 		for w in bigram[curr_word]:
-			if w.isalpha():
+			# Don't allow punctuation if below min sentence length, don't allow sentence to end with punctuation
+			if not ((w == '.' or w == '!' or w == '?') and i < sent_len -2):
 				for j in range(0, bigram[curr_word][w]):
 					possible_words.append(w)
 		if len(possible_words) <= 0:
-			early_term = True
+			# No possible word (must be punctuation) - need to end sentence.
+			for w in bigram[curr_word]:
+				sent += w
+				break
+			print sent + '\n'	
+			curr_word = random_word()
+			prev_word = ''
 			break
-		curr_word = possible_words[random.randint(0,len(possible_words)-1)]
-		sent += ' '
+
+		curr_word = possible_words[random.randint(0,len(possible_words)-1)]		
+			
+		if curr_word == '.' or curr_word == '!' or curr_word == '?':
+			sent += curr_word 
+			print sent + '\n'	
+			curr_word = random_word()
+			prev_word = ''
+			break
+		# Add space before current word, unless previous was an apostrophe or paranthesis
+		elif (curr_word.isalpha() or curr_word == '(' or curr_word == '[') and not (prev_word == "'" 
+																or prev_word == '(' or prev_word == '['):
+			sent += ' '
 		sent += curr_word
-	sent += '.'
-	print sent + '\n'	
-	if early_term:
-		curr_word = random_word()
+		prev_word = curr_word
+		i += 1
+
+if perplexity != None:
+	print "Perplexity: ", perp(perplexity.read(), 'u')
 
