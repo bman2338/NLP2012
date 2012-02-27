@@ -1,0 +1,11 @@
+Authors Readme
+
+#example
+python authors.py -tr EnronDataset/train.txt -te EnronDataset/validation.txt
+
+Weighting unigrams and bigrams equivalently
+
+Note that the current classifyEmails function assumes that the test file provides
+the authors which is will not in reality(test file is acting like validation at
+the moment). We do get a nice error rate of only like 11% which we can tune
+by varying the weighting between unigrams and bigrams
