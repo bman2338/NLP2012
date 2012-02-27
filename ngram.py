@@ -4,6 +4,7 @@ import random
 import sys
 
 from nltk.corpus import brown
+from nltk.tokenize import sent_tokenize
 
 stemming_enabled = False
 perplexity = None
@@ -121,31 +122,33 @@ for key, dicts in bigram.items():
 		total_big+=value
 	
 			
-#calculates perplexity, pass sentence sent & model='u' or 'b'
-def perp(sent, model):
+#calculates perplexity, pass text passage & model='u' or 'b'
+def perp(passage,model):
 	p=0
+	#parses test file into sentences
+	for sent in sent_tokenize(passage):
+		p=sentence_prob(sent,model,p)
+	return math.pow(math.e, -1/len(unigram) *p)
+
+#calculates log prob of a generated sentence wrt to model.
+def sentence_prob(sent, model,p):
 	n=0
 	#retokenize
 	sent2 = nltk.tokenize.regexp_tokenize(sent, pattern)
 	n += len(sent2)
-	#pr (A)*pr(b)*pr(C)...^(-1/n)
+	#pr (A)*pr(b)*pr(C)...
 	if model=='u':
 		for words in sent2:
 			if words.lower() in unigram:
 				p+=math.log(unigram[words.lower()]/float(total_uni))
-		p = math.pow(math.e, p)
-		p=math.pow(p, -1/n)
-	#pr(A)*(B|A)...^(-1/n)
+	#pr(A)*(B|A)...
 	if model=='b': 
 		if sent2[0].lower() in unigram:
-			p*=unigram[sent2[0].lower()]/float(total_uni)
+			p+=math.log(unigram[sent2[0].lower()]/float(total_uni))
 		for i in range(0,n-2):
 			if sent2[i].lower() in bigram:
 				if sent2[i+1].lower() in bigram[sent2[i].lower()]:
 					p+=math.log(bigram[sent2[i].lower()][sent2[i+1].lower()]/float(total_big))
-		p = math.pow(math.e, p)
-		p=math.pow(p, -1/n)
-		
 	return p
 
 # Generate a random passage of pass_len sentences each of sent_len words 
