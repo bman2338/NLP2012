@@ -6,6 +6,8 @@ import sys
 from nltk.corpus import brown
 from nltk.tokenize import sent_tokenize
 
+VALIDATION = True
+
 stemming_enabled = False
 perplexityName = None
 perplexity = None
@@ -17,7 +19,12 @@ pass_len = 100
 unigram = {}
 bigram = {}
 notseen = 0 # words not seen in training
-constant = 0.75
+constant = 0.65
+ucounts = {}
+bcounts = {}
+bcounts[0] = 0
+udenom = 0
+bdenom = 0
 
 def random_word():
 	possible_words = []
@@ -136,15 +143,39 @@ for key, dicts in bigram.items():
 			
 #calculates perplexity, pass text passage & model='u' or 'b'
 def perp(passage,model):
-	if smoothing == 'a':
+	global ucounts, bcounts, udenom, bdenom
+	
+	if smoothing != 'n':
 		global notseen
 		x = 0
 		for word in nltk.tokenize.regexp_tokenize(passage, pattern):
 			x += 1
 			if not (word.lower() in unigram):
+				bcounts[0] += 1
 				unigram[word.lower()] = 0
 				bigram[word.lower()] = {}
-				notseen += 1
+				notseen += 1			
+			elif unigram[word.lower()] == 0:
+				bcounts[0] += 1
+				
+	if smoothing == "ig" and not (1 in bcounts):
+		for word in unigram:
+			if not unigram[word] in ucounts:
+				ucounts[unigram[word]] = 0
+			ucounts[unigram[word]] += 1
+			
+		for word in unigram:
+			for word2 in bigram[word]:
+				x -= 1
+				if not bigram[word][word2] in bcounts:
+					bcounts[bigram[word][word2]] = 0
+				bcounts[bigram[word][word2]] += 1
+			
+		for n in ucounts:
+			udenom += n * ucounts[n]
+		for n in bcounts:
+			bdenom += n * bcounts[n]
+				
 	p=0
 	count = 0
 	sum = 0
@@ -161,6 +192,7 @@ def perp(passage,model):
 
 #calculates log prob of a generated sentence wrt to model.
 def sentence_prob(sent, model,p):
+	global notseen
 	if smoothing == 'n':
 		n=0
 		#retokenize
@@ -181,7 +213,6 @@ def sentence_prob(sent, model,p):
 						p+=math.log(bigram[sent2[i].lower()][sent2[i+1].lower()]/float(unigram[sent2[i+1].lower()]))
 		return p
 	elif smoothing == 'a':
-		global notseen
 		n=0
 		#retokenize
 		sent2 = nltk.tokenize.regexp_tokenize(sent, pattern)
@@ -198,7 +229,9 @@ def sentence_prob(sent, model,p):
 			for i in range(0,n-2):
 				if sent2[i].lower() in bigram:
 					if sent2[i+1].lower() in bigram[sent2[i].lower()]:
-						p+=math.log((1 + bigram[sent2[i].lower()][sent2[i+1].lower()]) / (float(unigram[sent2[i+1].lower()]) + notseen))
+						p+=math.log((1 + bigram[sent2[i].lower()][sent2[i+1].lower()]) / (float(unigram[sent2[i+1].lower()]) + total_uni + notseen))
+					else:
+						p+=math.log(1.0 / ((unigram[sent2[i+1].lower()]) + total_uni + notseen))
 		return p
 	elif smoothing == 'i':
 		n=0
@@ -211,11 +244,48 @@ def sentence_prob(sent, model,p):
 			if sent2[i].lower() in bigram:
 				if sent2[i+1].lower() in bigram[sent2[i].lower()]:
 					p+=math.log( \
-						constant * bigram[sent2[i].lower()][sent2[i+1].lower()]/float(unigram[sent2[i+1].lower()]) \
-						+ (1 - constant) * (unigram[sent2[i+1].lower()]/float(total_uni))
-								)
+						constant * (1 + bigram[sent2[i].lower()][sent2[i+1].lower()]) / (float(unigram[sent2[i+1].lower()]) + total_uni + notseen) \
+						+ (1 - constant) * ((1 + unigram[sent2[i+1].lower()]))/(float(total_uni) + notseen)) 	
+				else:
+					p+=math.log( \
+							constant * 1.0 / ((unigram[sent2[i+1].lower()]) + total_uni + notseen) \
+							+ (1 - constant) * ((1 + unigram[sent2[i+1].lower()]))/(float(total_uni) + notseen))
 		return p
-
+	elif smoothing == "ig":
+		n=0
+		#retokenize
+		sent2 = nltk.tokenize.regexp_tokenize(sent, pattern)
+		n += len(sent2)
+		if sent2[0].lower() in unigram:
+			count = unigram[sent2[0].lower()]
+			if count < 3:
+				p+=math.log(((count + 1) * ucounts[(count + 1)] / float(ucounts[count])) \
+							/ float(udenom))
+			else:
+				p+=math.log(unigram[sent2[0].lower()]/float(total_uni))
+		for i in range(0,n-2):
+			if sent2[i].lower() in bigram:
+				sent2count = unigram[sent2[i+1].lower()]
+				if sent2[i+1].lower() in bigram[sent2[i].lower()]:
+					count = bigram[sent2[i].lower()][sent2[i+1].lower()]
+				else:
+					count = 0
+				if count < 3:
+					if sent2count < 3:
+						p+=math.log((( \
+							constant * (count + 1) * bcounts[(count) + 1] \
+							/ float(bcounts[(count)])) / float(bdenom))
+							+ (1 - constant) * ((sent2count + 1) * ucounts[(sent2count + 1)] / float(ucounts[sent2count])) \
+							/ float(udenom))
+					else:
+						p+=math.log((( \
+							constant * (count + 1) * bcounts[(count) + 1] \
+							/ float(bcounts[(count)])) / float(bdenom))
+							+ (1 - constant) * unigram[sent2[i+1].lower()]/float(total_uni))
+				else:
+					p+=math.log(bigram[sent2[i].lower()][sent2[i+1].lower()]/float(unigram[sent2[i+1].lower()]))
+		return p	
+					
 # Generate a random passage of pass_len sentences each of sent_len words 
 curr_word = seed_word
 prev_word = ''
@@ -257,11 +327,21 @@ for k in range(0, pass_len):
 		prev_word = curr_word
 		i += 1
 
-#constant = 0.0
-#while constant < 1:
-if perplexity != None:
-	print constant, " average sentence perplexity: ", perp(perplexity.read(), 'u')
-	perplexity.close()
-		#perplexity = open(perplexityName, 'r')
-#	constant += 0.05
+	for n in ucounts:
+		udenom += n * ucounts[n]
+	for n in bcounts:
+		bdenom += n * bcounts[n]
+
+if VALIDATION:
+	constant = 0.0
+	while constant < 1.01:
+		if perplexity != None:
+			print constant, " average sentence perplexity: ", perp(perplexity.read(), 'b')
+			perplexity.close()
+			perplexity = open(perplexityName, 'r')
+			constant += 0.05
+else:
+	if perplexity != None:
+		print constant, " average sentence perplexity: ", perp(perplexity.read(), 'b')
+		perplexity.close()
 
