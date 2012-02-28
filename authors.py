@@ -4,6 +4,11 @@ import nltk
 import random
 import sys
 
+smoothing = 'n'
+
+# Constant used for linear interpolation, this is the weight given to bigrams
+constant = .8
+
 #Dictionaries of Emails
 authors = {}
 authorsTest = {}
@@ -37,11 +42,11 @@ def readFile(file,emailDictionary):
 
 # Regex pattern for tokenizing the corpus, accounts for acronyms, etc.
 pattern = r'''(?x)  
-	  \w+		
-	  | \$?\d+(\.\d+)?
-	  | ([A-Z]\.)+		
-	  | [^\w\s]+		
-	  '''
+      \w+        
+      | \$?\d+(\.\d+)?
+      | ([A-Z]\.)+        
+      | [^\w\s]+        
+      '''
 
 #Build counts
 def buildGrams(email,unigram,bigram):
@@ -49,20 +54,18 @@ def buildGrams(email,unigram,bigram):
     train_words.append(nltk.tokenize.regexp_tokenize(email, pattern))
     for words in train_words:
             for i in range(0,len(words)-1):
-                    w1 = words[i].lower()
-                    w2 = words[i+1].lower()
-                    if w1 not in unigram:
-                            unigram[w1] = 0
-                    if w1 not in bigram:
-                            bigram[w1] = {}
-                    if w2 not in bigram[w1]:
-                            bigram[w1][w2] = 0
-                    if w1.isalpha():
-                        unigram[w1] += 1
-                    if w2.isalpha():
-                        bigram[w1][w2] += 1
-                    if words[i].lower().isalpha():
-                        unigram[words[i].lower()] += 1
+                w1 = words[i].lower()
+                w2 = words[i+1].lower()
+                if w1 not in unigram:
+                        unigram[w1] = 0
+                if w1 not in bigram:
+                        bigram[w1] = {}
+                if w2 not in bigram[w1]:
+                        bigram[w1][w2] = 0
+                if not (w1 in authors.keys()):
+                    unigram[w1] += 1
+                if not (w2 in authors.keys()):
+                    bigram[w1][w2] += 1
     return (unigram,bigram)
             
 
@@ -115,13 +118,59 @@ def normBigram(unigrams, bigrams):
                 normBigrams[w1][w2] = float (num) / denom
                 
     return normBigrams
-    
+
+def smoothUnigrams(unigrams, normalizedUnigrams, additional):
+    if smoothing == 'n':
+        return normalizedUnigrams
+    smoothUnigrams = {}
+    listSum = sum(unigrams.values())
+    if smoothing == 'a' or smoothing == 'i':
+        for x in unigrams.keys():
+            smoothUnigrams[x] = float(1 + unigrams[x]) / (listSum + additional)
+            
+    return smoothUnigrams
+            
+def smoothBigrams(bigrams, normalizedBigrams, unigrams, normalizedUnigrams, additional):
+    if smoothing == 'n':
+        return normalizedBigrams
+    smoothBigrams = {}
+    listSum = sum(unigrams.values())
+    if smoothing == 'a':
+        for w1 in bigrams.keys():
+            for w2 in bigrams[w1].keys():
+                denom = 0;
+                num = 0;
+                if w2 in unigrams:
+                    denom = unigrams[w1]
+                if w1 in bigrams and w2 in bigrams[w1]:    
+                    num =  bigrams[w1][w2]
+                if w1 not in smoothBigrams:
+                    smoothBigrams[w1] = {}
+                if w2 not in smoothBigrams[w1]:
+                    smoothBigrams[w1][w2] = 1
+                if denom != 0:
+                    smoothBigrams[w1][w2] = float(1 + num) / (denom + additional)
+    elif smoothing == 'i':
+        for w1 in bigrams.keys():
+            for w2 in bigrams[w1].keys():
+                if w1 not in smoothBigrams:
+                    smoothBigrams[w1] = {}
+                if w2 not in smoothBigrams[w1]:
+                    smoothBigrams[w1][w2] = 0
+                try:
+                    smoothBigrams[w1][w2] = constant*normalizedBigrams[w1][w2] + (1-constant)*normalizedUnigrams[w2]
+                except KeyError: 
+                    smoothBigrams[w1][w2] = normalizedBigrams[w1][w2]
+            
+    return smoothBigrams
 
 def classifyEmails(emails):
     numCorrect = 0
     total = 0
+    
     for author in emails.keys():
         for email in emails[author]:
+            print total
             total +=1
             if author == predictAuthor(email):
                 numCorrect +=1
@@ -135,17 +184,32 @@ def predictAuthor(email):
     (emailUnigrams,emailBigrams) = buildGrams(email,emailUnigrams,emailBigrams)
     emailUnigramNorm = normUnigram(emailUnigrams)
     emailBigramNorm = normBigram(emailUnigrams,emailBigrams)
+    
+    additionalUnigrams = 0
+    
     for author in authors.keys():
         authorsUtility[author] = 0;
         
         for emailUnigramKey in emailUnigrams.keys():
-            if emailUnigramKey in normalizedAuthorUnigrams[author]:
-                authorsUtility[author] += normalizedAuthorUnigrams[author][emailUnigramKey] * emailUnigramNorm[emailUnigramKey]
+            if not (emailUnigramKey in normalizedAuthorUnigrams[author]):
+                authorUnigrams[author][emailUnigramKey] = 0
+                authorBigrams[author][emailUnigramKey] = {}
+                additionalUnigrams += 1
+        
+        smoothedAuthorUnigrams = smoothUnigrams(authorUnigrams[author], normalizedAuthorUnigrams[author], additionalUnigrams)
+        smoothedAuthorBigrams = smoothBigrams(authorBigrams[author], normalizedAuthorBigrams[author], authorUnigrams[author], 
+                                              normalizedAuthorUnigrams[author], additionalUnigrams)
+        #smoothedAuthorUnigrams = normalizedAuthorUnigrams[author]
+        #smoothedAuthorBigrams = normalizedAuthorBigrams[author]
+        
+        for emailUnigramKey in emailUnigrams.keys():
+            if emailUnigramKey in smoothedAuthorUnigrams:
+                authorsUtility[author] += smoothedAuthorUnigrams[emailUnigramKey] * emailUnigramNorm[emailUnigramKey]
         
         for key in emailBigrams.keys():
             for key2 in emailBigrams[key]:
-                if key in normalizedAuthorBigrams[author] and key2 in normalizedAuthorBigrams[author][key]:
-                    authorsUtility[author] += normalizedAuthorBigrams[author][key][key2] * emailBigramNorm[key][key2]
+                if key in smoothedAuthorBigrams and key2 in smoothedAuthorBigrams[key]:
+                    authorsUtility[author] += smoothedAuthorBigrams[key][key2] * emailBigramNorm[key][key2]
                    
     
     index = authorsUtility.values().index(max(authorsUtility.values()))
@@ -154,29 +218,38 @@ def predictAuthor(email):
 
 arg = 1
 while arg < len(sys.argv):
-	        
-	# -tr <filename> adds <filename> to the train set
-	if sys.argv[arg] == '-tr':
-		arg += 1
-		if arg > len(sys.argv):
-		    print 'ERROR: -tr <filename> missing parameter <filename>'
-		    exit(1)
-		readFile(sys.argv[arg],authors)
-        # -v <filename> adds <filename> to the validation set
-	elif sys.argv[arg] == '-v':
-		arg += 1
-		if arg > len(sys.argv):
-		    print 'ERROR: -v <filename> missing parameter <filename>'
-		    exit(1)
-		readFile(sys.argv[arg],authorsValidation)
-         #-te <filename> adds <filename> to the test set
-	elif sys.argv[arg] == '-te':
-		arg += 1
-		if arg > len(sys.argv):
-		    print 'ERROR: - te <filename> missing parameter <filename>'
-		    exit(1)
-                readFile(sys.argv[arg],authorsTest)
+            
+    # -tr <filename> adds <filename> to the train set
+    if sys.argv[arg] == '-tr':
         arg += 1
+        if arg > len(sys.argv):
+            print 'ERROR: -tr <filename> missing parameter <filename>'
+            exit(1)
+        readFile(sys.argv[arg],authors)
+        # -v <filename> adds <filename> to the validation set
+    elif sys.argv[arg] == '-v':
+        arg += 1
+        if arg > len(sys.argv):
+            print 'ERROR: -v <filename> missing parameter <filename>'
+            exit(1)
+        readFile(sys.argv[arg],authorsValidation)
+         #-te <filename> adds <filename> to the test set
+    elif sys.argv[arg] == '-te':
+        arg += 1
+        if arg > len(sys.argv):
+            print 'ERROR: - te <filename> missing parameter <filename>'
+            exit(1)
+        readFile(sys.argv[arg],authorsTest)
+    # -s <method> uses <method> for smoothing, <method> in {n (none), a (addone), i (linear interpolation)}
+    elif sys.argv[arg] == '-s':
+        arg += 1
+        if arg > len(sys.argv):
+            print 'ERROR: - s <method> missing parameter <method>'
+            exit(1)
+        smoothing = sys.argv[arg]
+        
+    arg += 1
+        
 main()
                 
 print 'done'            
