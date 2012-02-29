@@ -1,4 +1,4 @@
-ngram.py - Uni/Bi-gram finder and sentence generator
+ngram.py - Uni/Bi-gram finder and sentence generator, perplexity calculator
 
 	Run from the command line using the following command
 	
@@ -28,6 +28,9 @@ ngram.py - Uni/Bi-gram finder and sentence generator
 
 		 -p <length> sets the passage length to the number <length>
 			default: 100
+			
+		 -sm <method> uses <method> for smoothing, <method> in {'n' (none), 'a' (addone), 'i' (interpolated addone),
+			'ig' (interpolated good-turing)}
 
 	Example:
 		
