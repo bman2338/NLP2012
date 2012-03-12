@@ -1,0 +1,3496 @@
+begin.v:
+	0:
+		Forms:
+			11 begin
+			4 begun
+			3 beginning
+			3 began
+			1 begins
+		Related stems:
+			48 begin
+			35 soon
+			33 one
+			27 late
+			26 wors
+	1:
+		Forms:
+			42 began
+			21 begin
+			12 begun
+			8 begins
+			8 beginning
+		Related stems:
+			56 's
+			54 wrote
+			38 one
+			29 work
+			27 take
+	2:
+		Forms:
+			15 began
+			7 begins
+			7 beginning
+			5 begin
+			5 begun
+		Related stems:
+			31 's
+			17 work
+			16 new
+			16 one
+			15 year
+	3:
+		Forms:
+			27 began
+			12 begin
+			7 beginning
+			4 begun
+			2 begins
+		Related stems:
+			34 one
+			31 's
+			31 begin
+			27 soon
+			22 prepar
+	4:
+		Forms:
+			2 beginning
+			1 begin
+			1 began
+			1 begun
+		Related stems:
+			3 illustr
+			3 bud
+			3 like
+			3 list
+			3 guy
+atmosphere.n:
+	0:
+		Forms:
+			12 atmosphere
+		Related stems:
+			11 's
+			5 side
+			5 one
+			4 next
+			4 hous
+	1:
+		Forms:
+			51 atmosphere
+		Related stems:
+			69 's
+			19 music
+			18 one
+			18 creat
+			17 give
+	2:
+		Forms:
+			20 atmosphere
+		Related stems:
+			18 's
+			10 heat
+			9 earth
+			9 power
+			8 nuclear
+	3:
+		Forms:
+			8 atmosphere
+		Related stems:
+			8 's
+			6 heat
+			4 radio
+			4 conif
+			4 rainforest
+	5:
+		Forms:
+			5 atmosphere
+		Related stems:
+			4 german
+			4 global
+			4 level
+			3 rise
+			3 page
+	6:
+		Forms:
+			103 atmosphere
+		Related stems:
+			113 's
+			33 one
+			32 would
+			29 creat
+			27 children
+play.v:
+	0:
+		Forms:
+			2 playing
+			1 play
+		Related stems:
+			3 drama
+			3 thing
+			2 still
+			2 jay
+			2 school
+	1:
+		Forms:
+			17 played
+			15 playing
+			10 play
+			2 plays
+		Related stems:
+			42 play
+			33 's
+			19 school
+			19 actor
+			17 part
+	2:
+		Forms:
+			8 play
+			4 plays
+			4 played
+			3 playing
+		Related stems:
+			11 work
+			10 number
+			10 part
+			10 art
+			9 year
+	4:
+		Forms:
+			4 playing
+			2 played
+		Related stems:
+			10 's
+			6 tenni
+			6 shriver
+			5 power
+			5 oppon
+	5:
+		Forms:
+			4 played
+			2 play
+			1 playing
+		Related stems:
+			5 guitar
+			5 leonard
+			3 express
+			3 drove
+			3 time
+	8:
+		Forms:
+			6 playing
+			4 play
+			2 played
+		Related stems:
+			7 day
+			5 would
+			5 hot
+			5 art
+			5 dog
+	9:
+		Forms:
+			3 played
+			2 playing
+			1 play
+		Related stems:
+			5 's
+			3 cup
+			3 like
+			3 wrote
+			3 said
+	10:
+		Forms:
+			3 play
+			2 playing
+			1 played
+		Related stems:
+			7 safe
+			7 land
+			6 glider
+			5 launch
+			4 downwind
+	11:
+		Forms:
+			3 playing
+			1 played
+		Related stems:
+			7 old
+			7 man
+			6 pictur
+			4 girl
+			4 would
+	12:
+		Forms:
+			1 plays
+		Related stems:
+			3 novel
+			3 talent
+			2 idea
+			2 chatterton
+			2 live
+argument.n:
+	0:
+		Forms:
+			5 argument
+			4 arguments
+		Related stems:
+			7 account
+			6 one
+			6 reason
+			6 must
+			5 first
+	1:
+		Forms:
+			7 argument
+			7 arguments
+		Related stems:
+			11 's
+			10 book
+			8 concept
+			8 one
+			7 would
+	2:
+		Forms:
+			44 argument
+			16 arguments
+		Related stems:
+			43 's
+			31 would
+			29 one
+			22 polit
+			18 polic
+	3:
+		Forms:
+			11 argument
+			6 arguments
+		Related stems:
+			20 's
+			15 cultur
+			10 new
+			10 critic
+			10 book
+	4:
+		Forms:
+			88 argument
+			41 arguments
+		Related stems:
+			133 's
+			61 one
+			51 would
+			38 state
+			35 could
+	5:
+		Forms:
+			35 argument
+			12 arguments
+		Related stems:
+			29 's
+			20 one
+			15 school
+			14 would
+			12 old
+bank.n:
+	0:
+		Forms:
+			4 bank
+			1 banks
+		Related stems:
+			8 's
+			4 privileg
+			3 bank
+			3 'd
+			3 claim
+	1:
+		Forms:
+			4 bank
+		Related stems:
+			11 rudder
+			9 slip
+			7 turn
+			5 side
+			4 littl
+	2:
+		Forms:
+			25 bank
+			2 banks
+		Related stems:
+			22 's
+			12 london
+			11 citi
+			10 bank
+			10 eliot
+	4:
+		Forms:
+			103 banks
+			80 bank
+		Related stems:
+			186 bank
+			128 's
+			90 per
+			88 cent
+			67 would
+	5:
+		Forms:
+			4 banks
+			4 bank
+		Related stems:
+			7 right
+			7 pump
+			7 light
+			6 beer
+			6 left
+	6:
+		Forms:
+			6 bank
+			3 banks
+		Related stems:
+			7 german
+			7 farm
+			6 posit
+			6 wound
+			4 go
+	7:
+		Forms:
+			26 bank
+			13 banks
+		Related stems:
+			35 river
+			19 's
+			16 bridg
+			15 could
+			14 hous
+	8:
+		Forms:
+			2 bank
+			1 banks
+		Related stems:
+			6 road
+			4 match
+			3 stile
+			3 go
+			3 cancel
+	9:
+		Forms:
+			1 bank
+		Related stems:
+			2 societi
+			2 right
+			2 madrid
+			2 nobel
+			2 tim
+	10:
+		Forms:
+			1 bank
+		Related stems:
+			3 sole
+			3 line
+			2 throughout
+			2 boot
+			2 inner
+produce.v:
+	1:
+		Forms:
+			40 produce
+			26 produced
+			15 produces
+			13 producing
+		Related stems:
+			51 's
+			35 use
+			30 one
+			26 differ
+			25 polic
+	2:
+		Forms:
+			30 produced
+			17 produce
+			13 producing
+			3 produces
+		Related stems:
+			44 beer
+			31 use
+			30 's
+			19 brew
+			16 produc
+	3:
+		Forms:
+			1 produced
+		Related stems:
+			5 marjori
+			4 lizzi
+			3 's
+			2 stay
+			1 oper
+	4:
+		Forms:
+			2 produced
+		Related stems:
+			3 protest
+			3 southern
+			2 group
+			2 one
+			2 church
+	5:
+		Forms:
+			20 produced
+			3 produce
+		Related stems:
+			33 's
+			30 film
+			19 work
+			19 televis
+			15 one
+	6:
+		Forms:
+			4 produce
+			2 produced
+			1 producing
+		Related stems:
+			5 's
+			5 cathol
+			4 one
+			4 roman
+			4 pain
+important.a:
+	1:
+		Forms:
+			14 important
+		Related stems:
+			16 work
+			13 's
+			11 art
+			7 new
+			7 theatr
+	2:
+		Forms:
+			15 important
+		Related stems:
+			19 work
+			11 's
+			8 much
+			7 need
+			6 help
+	3:
+		Forms:
+			14 important
+		Related stems:
+			14 art
+			11 's
+			10 work
+			8 critic
+			6 new
+	4:
+		Forms:
+			1 important
+		Related stems:
+			2 self
+			2 live
+			2 includ
+			2 tradit
+			1 imperson
+	5:
+		Forms:
+			6 important
+		Related stems:
+			9 art
+			5 group
+			5 critic
+			5 polic
+			5 's
+judgment.n:
+	1:
+		Forms:
+			16 judgment
+			1 judgments
+		Related stems:
+			20 court
+			16 's
+			14 forest
+			13 appel
+			13 defend
+	2:
+		Forms:
+			10 judgments
+			9 judgment
+		Related stems:
+			12 's
+			9 would
+			8 said
+			7 make
+			6 forest
+	3:
+		Forms:
+			2 judgment
+		Related stems:
+			5 teacher
+			2 subject
+			2 lawson
+			2 honour
+			2 free
+	4:
+		Forms:
+			6 judgment
+		Related stems:
+			6 would
+			5 said
+			4 author
+			4 's
+			3 lord
+	5:
+		Forms:
+			1 judgment
+		Related stems:
+			2 four
+			2 distanc
+			1 wale
+			1 brave
+			1 repres
+	6:
+		Forms:
+			8 judgment
+			3 judgments
+		Related stems:
+			11 would
+			7 said
+			6 one
+			6 's
+			5 lea
+	7:
+		Forms:
+			5 judgment
+			1 judgments
+		Related stems:
+			12 rule
+			10 order
+			8 class
+			6 appeal
+			6 's
+use.v:
+	1:
+		Forms:
+			8 used
+			5 use
+			3 using
+			1 uses
+		Related stems:
+			18 art
+			17 's
+			9 word
+			8 wlflinn
+			8 histori
+	4:
+		Forms:
+			1 use
+		Related stems:
+			4 drug
+			2 world
+			1 feel
+			1 ca
+			1 life
+	5:
+		Forms:
+			8 used
+		Related stems:
+			6 perspect
+			6 art
+			5 use
+			5 's
+			5 museum
+lose.v:
+	1:
+		Forms:
+			7 lost
+		Related stems:
+			6 paint
+			5 said
+			5 e.g.
+			4 london
+			4 end
+	2:
+		Forms:
+			4 lost
+			2 losing
+			2 lose
+		Related stems:
+			6 fli
+			5 one
+			5 cloud
+			5 would
+			5 peopl
+	3:
+		Forms:
+			4 losing
+			4 lost
+			3 lose
+			1 loses
+		Related stems:
+			8 15
+			8 's
+			7 two
+			7 put
+			7 kick
+	4:
+		Forms:
+			17 lost
+			11 lose
+			5 losing
+			3 loses
+		Related stems:
+			22 's
+			13 n't
+			13 late
+			11 even
+			9 one
+	5:
+		Forms:
+			3 lost
+			2 lose
+			1 losing
+		Related stems:
+			8 one
+			8 's
+			7 father
+			6 napoleon
+			5 lizzi
+	6:
+		Forms:
+			2 lost
+		Related stems:
+			3 move
+			3 uniform
+			3 offic
+			2 young
+			2 donat
+	7:
+		Forms:
+			1 losing
+		Related stems:
+			2 one
+			1 wale
+			1 unbridl
+			1 point
+			1 replac
+provide.v:
+	1:
+		Forms:
+			3 provide
+			3 provided
+			1 provides
+		Related stems:
+			4 manor
+			4 system
+			4 fairfield
+			4 hotel
+			4 work
+	2:
+		Forms:
+			57 provide
+			25 provided
+			19 provides
+			18 providing
+		Related stems:
+			56 's
+			41 servic
+			37 help
+			34 peopl
+			34 also
+	3:
+		Forms:
+			8 provided
+			1 providing
+			1 provides
+		Related stems:
+			10 airbrak
+			9 land
+			7 tri
+			7 make
+			6 speed
+	5:
+		Forms:
+			2 provide
+			2 provided
+		Related stems:
+			6 children
+			6 health
+			4 want
+			4 well
+			3 know
+suspend.v:
+	0:
+		Forms:
+			1 suspended
+		Related stems:
+			3 group
+			2 compani
+			2 's
+			2 debt
+			2 bank
+	1:
+		Forms:
+			13 suspended
+			1 suspend
+		Related stems:
+			11 's
+			6 one
+			6 point
+			5 rope
+			5 feet
+	2:
+		Forms:
+			33 suspended
+			10 suspend
+			3 suspending
+		Related stems:
+			47 's
+			29 mr
+			20 said
+			16 year
+			15 unit
+	3:
+		Forms:
+			4 suspend
+			4 suspended
+			1 suspending
+		Related stems:
+			11 mr
+			7 appeal
+			7 yesterday
+			6 court
+			6 said
+	4:
+		Forms:
+			12 suspended
+			3 suspending
+			1 suspend
+		Related stems:
+			14 's
+			11 law
+			9 year
+			8 mr
+			7 peopl
+	5:
+		Forms:
+			37 suspended
+			1 suspends
+		Related stems:
+			31 's
+			20 two
+			20 said
+			18 player
+			17 last
+	6:
+		Forms:
+			3 suspended
+		Related stems:
+			6 net
+			3 labudd
+			3 share
+			2 brother
+			2 robbin
+	7:
+		Forms:
+			3 suspended
+		Related stems:
+			9 's
+			3 bank
+			3 sub
+			3 profit
+			3 sharp
+performance.n:
+	0:
+		Forms:
+			5 performance
+		Related stems:
+			4 's
+			3 littl
+			3 smoke
+			3 make
+			2 express
+	1:
+		Forms:
+			45 performance
+			4 performances
+		Related stems:
+			38 's
+			18 one
+			18 per
+			18 cent
+			14 work
+	2:
+		Forms:
+			36 performance
+			9 performances
+		Related stems:
+			59 's
+			23 work
+			23 perform
+			23 may
+			16 music
+	3:
+		Forms:
+			15 performance
+			2 performances
+		Related stems:
+			11 's
+			8 one
+			7 first
+			6 two
+			6 second
+	4:
+		Forms:
+			32 performance
+			11 performances
+		Related stems:
+			64 's
+			20 work
+			18 perform
+			16 theatr
+			16 first
+	5:
+		Forms:
+			34 performance
+		Related stems:
+			18 's
+			17 high
+			15 use
+			14 perform
+			14 mani
+express.v:
+	0:
+		Forms:
+			1 expressed
+		Related stems:
+			10 snowden
+			5 issu
+			4 know
+			4 free
+			3 chamberlain
+	1:
+		Forms:
+			51 expressed
+			13 express
+			7 expressing
+			6 expresses
+		Related stems:
+			76 's
+			29 one
+			26 would
+			26 polic
+			21 concern
+	2:
+		Forms:
+			5 expressed
+			2 expressing
+			1 express
+		Related stems:
+			5 's
+			4 must
+			4 one
+			4 argument
+			4 also
+	3:
+		Forms:
+			1 expressed
+		Related stems:
+			2 thatcher
+			2 past
+			2 style
+			2 heseltin
+			2 's
+	4:
+		Forms:
+			15 expressed
+			6 express
+			4 expressing
+			1 expresses
+		Related stems:
+			18 one
+			13 's
+			8 home
+			7 use
+			7 also
+audience.n:
+	0:
+		Forms:
+			6 audience
+			1 audiences
+		Related stems:
+			5 's
+			4 could
+			4 film
+			3 remind
+			3 public
+	1:
+		Forms:
+			2 audience
+		Related stems:
+			4 architect
+			3 's
+			2 mission
+			2 small
+			2 dogmat
+	2:
+		Forms:
+			122 audience
+			24 audiences
+		Related stems:
+			219 's
+			60 danc
+			52 music
+			52 one
+			48 audienc
+	3:
+		Forms:
+			43 audience
+			22 audiences
+		Related stems:
+			87 's
+			32 televis
+			32 sport
+			27 audienc
+			25 music
+	4:
+		Forms:
+			8 audience
+		Related stems:
+			15 right
+			13 lord
+			11 solicitor
+			8 govern
+			8 societi
+party.n:
+	0:
+		Forms:
+			10 party
+			4 parties
+		Related stems:
+			8 parti
+			8 's
+			6 one
+			5 would
+			5 say
+	1:
+		Forms:
+			31 party
+			13 parties
+		Related stems:
+			30 dog
+			29 's
+			24 pup
+			24 parti
+			15 puppi
+	2:
+		Forms:
+			14 party
+			2 parties
+		Related stems:
+			8 's
+			7 one
+			5 girl
+			5 ask
+			5 man
+	3:
+		Forms:
+			143 party
+			18 parties
+		Related stems:
+			186 parti
+			177 's
+			131 labour
+			82 mr
+			66 confer
+	4:
+		Forms:
+			14 party
+			2 parties
+		Related stems:
+			9 two
+			8 one
+			8 's
+			6 snow
+			5 four
+	5:
+		Forms:
+			11 parties
+			3 party
+		Related stems:
+			8 's
+			7 would
+			7 compani
+			6 one
+			6 state
+remain.v:
+	0:
+		Forms:
+			1 remain
+			1 remained
+		Related stems:
+			3 lectur
+			2 landscap
+			1 pleas
+			1 heart
+			1 art
+	1:
+		Forms:
+			40 remains
+			36 remained
+			35 remain
+			7 remaining
+		Related stems:
+			75 's
+			47 polic
+			41 one
+			36 cathol
+			29 work
+	2:
+		Forms:
+			6 remains
+			6 remain
+			4 remained
+			2 remaining
+		Related stems:
+			15 prison
+			12 al
+			9 releas
+			8 's
+			7 sinc
+	3:
+		Forms:
+			2 remains
+			1 remaining
+		Related stems:
+			4 protest
+			4 form
+			3 pub
+			3 build
+			2 chill
+disc.n:
+	0:
+		Forms:
+			4 discs
+			3 disc
+		Related stems:
+			7 disc
+			5 use
+			5 one
+			4 requir
+			3 provid
+	1:
+		Forms:
+			32 discs
+			31 disc
+		Related stems:
+			59 disc
+			38 use
+			23 one
+			18 's
+			18 power
+	2:
+		Forms:
+			50 disc
+			28 discs
+		Related stems:
+			135 record
+			73 disc
+			69 's
+			35 first
+			32 one
+	3:
+		Forms:
+			31 disc
+			18 discs
+		Related stems:
+			52 disc
+			33 's
+			32 comput
+			25 use
+			23 record
+	4:
+		Forms:
+			23 disc
+			13 discs
+		Related stems:
+			13 disc
+			13 cut
+			10 like
+			10 time
+			9 slip
+appear.v:
+	0:
+		Forms:
+			2 appeared
+		Related stems:
+			2 felt
+			1 pleas
+			1 dorothi
+			1 other.
+			1 coriad
+	1:
+		Forms:
+			34 appear
+			29 appeared
+			12 appears
+			1 appearing
+		Related stems:
+			55 's
+			24 one
+			17 time
+			17 like
+			16 work
+	2:
+		Forms:
+			78 appear
+			45 appears
+			24 appeared
+			3 appearing
+		Related stems:
+			102 's
+			58 one
+			48 would
+			43 time
+			37 work
+	3:
+		Forms:
+			32 appeared
+			11 appear
+			5 appears
+			3 appearing
+		Related stems:
+			46 's
+			25 critic
+			24 art
+			23 work
+			17 one
+degree.n:
+	0:
+		Forms:
+			1 degree
+		Related stems:
+			3 's
+			2 one
+			2 like
+			2 work
+			2 n't
+	1:
+		Forms:
+			150 degree
+			13 degrees
+		Related stems:
+			127 's
+			63 one
+			47 use
+			43 would
+			43 polit
+	2:
+		Forms:
+			11 degree
+			1 degrees
+		Related stems:
+			10 research
+			9 polic
+			9 's
+			8 unit
+			7 may
+	4:
+		Forms:
+			46 degree
+			11 degrees
+		Related stems:
+			52 would
+			34 degre
+			33 work
+			31 univers
+			30 studi
+	5:
+		Forms:
+			3 degrees
+			1 degree
+		Related stems:
+			7 turn
+			4 left
+			3 modul
+			3 's
+			3 phase
+	6:
+		Forms:
+			4 degree
+			1 degrees
+		Related stems:
+			10 atom
+			5 beer
+			4 temperatur
+			4 laser
+			4 snow
+	7:
+		Forms:
+			36 degree
+			5 degrees
+		Related stems:
+			29 's
+			26 use
+			16 polic
+			13 one
+			13 research
+paper.n:
+	0:
+		Forms:
+			15 paper
+			6 papers
+		Related stems:
+			12 work
+			10 paper
+			10 's
+			8 would
+			8 world
+	1:
+		Forms:
+			6 paper
+			1 papers
+		Related stems:
+			4 said
+			4 work
+			3 paper
+			3 littl
+			3 day
+	2:
+		Forms:
+			32 paper
+			16 papers
+		Related stems:
+			36 's
+			22 said
+			13 work
+			13 one
+			13 wrote
+	3:
+		Forms:
+			17 paper
+			9 papers
+		Related stems:
+			17 health
+			15 's
+			14 would
+			14 polic
+			14 paper
+	4:
+		Forms:
+			30 paper
+			18 papers
+		Related stems:
+			31 's
+			22 research
+			18 work
+			17 paper
+			16 would
+	5:
+		Forms:
+			39 paper
+			20 papers
+		Related stems:
+			41 's
+			31 reader
+			28 paper
+			26 said
+			25 bia
+	6:
+		Forms:
+			14 paper
+			3 papers
+		Related stems:
+			21 's
+			8 mr
+			8 sunday
+			7 press
+			6 newspap
+	7:
+		Forms:
+			61 paper
+			1 papers
+		Related stems:
+			42 paper
+			30 's
+			25 use
+			17 print
+			16 one
+shelter.n:
+	0:
+		Forms:
+			3 shelter
+		Related stems:
+			2 siren
+			2 breakfast
+			1 slower
+			1 obviou
+			1 give
+	1:
+		Forms:
+			62 shelter
+			28 shelters
+		Related stems:
+			40 's
+			35 one
+			24 shelter
+			21 could
+			20 would
+	2:
+		Forms:
+			58 shelter
+			5 shelters
+		Related stems:
+			23 's
+			19 tree
+			18 new
+			18 hous
+			18 plant
+	3:
+		Forms:
+			1 shelters
+		Related stems:
+			3 kahn
+			3 war
+			2 go
+			2 quit
+			2 behind
+	4:
+		Forms:
+			77 shelter
+			1 shelters
+		Related stems:
+			36 's
+			28 hous
+			22 one
+			21 could
+			18 would
+talk.v:
+	0:
+		Forms:
+			1 talking
+		Related stems:
+			2 fire
+			1 verg
+			1 acknowledg
+			1 arriv
+			1 rank
+	1:
+		Forms:
+			69 talk
+			26 talking
+			16 talked
+			6 talks
+		Related stems:
+			68 's
+			38 would
+			36 time
+			35 one
+			32 peopl
+	2:
+		Forms:
+			3 talked
+			1 talking
+		Related stems:
+			4 like
+			3 forc
+			3 would
+			3 adjac
+			3 's
+	3:
+		Forms:
+			1 talks
+			1 talking
+			1 talk
+		Related stems:
+			3 stop
+			3 talk
+			2 luci
+			2 england
+			2 never
+	6:
+		Forms:
+			10 talking
+			3 talks
+			3 talk
+		Related stems:
+			18 's
+			8 look
+			7 like
+			6 someth
+			6 time
+	7:
+		Forms:
+			2 talk
+		Related stems:
+			2 languag
+			2 mother
+			2 apartheid
+			2 english
+			1 anc
+	8:
+		Forms:
+			2 talked
+			1 talk
+		Related stems:
+			5 one
+			4 famili
+			3 shop
+			3 soon
+			3 artist
+	9:
+		Forms:
+			1 talk
+		Related stems:
+			2 stop
+			2 back
+			2 eat
+			1 quit
+			1 coupl
+climb.v:
+	0:
+		Forms:
+			4 climbs
+			1 climbing
+		Related stems:
+			4 one
+			3 good
+			3 coast
+			3 west
+			3 1988
+	1:
+		Forms:
+			23 climbed
+			20 climbing
+			17 climb
+			3 climbs
+		Related stems:
+			35 's
+			23 climb
+			21 time
+			20 one
+			14 cloud
+	2:
+		Forms:
+			4 climbing
+			1 climbs
+		Related stems:
+			9 speed
+			6 launch
+			6 glider
+			4 angl
+			4 field
+	3:
+		Forms:
+			4 climbing
+		Related stems:
+			7 rose
+			4 scent
+			3 flower
+			3 shoot
+			2 fragrant
+	4:
+		Forms:
+			2 climb
+			1 climbed
+		Related stems:
+			4 peasant
+			4 power
+			3 like
+			3 year
+			3 market
+	5:
+		Forms:
+			21 climbed
+			19 climbing
+			14 climb
+			1 climbs
+		Related stems:
+			27 's
+			21 wall
+			20 climb
+			17 one
+			14 would
+organization.n:
+	2:
+		Forms:
+			1 organization
+		Related stems:
+			3 belfast
+			3 east
+			2 campaign
+			2 craig
+			2 seat
+	4:
+		Forms:
+			1 organization
+		Related stems:
+			3 better
+			3 servic
+			2 health
+			2 could
+			2 manag
+	5:
+		Forms:
+			18 organization
+		Related stems:
+			27 societi
+			15 organ
+			14 term
+			11 idea
+			10 gener
+	6:
+		Forms:
+			46 organizations
+			39 organization
+		Related stems:
+			50 's
+			45 parti
+			32 one
+			28 unionist
+			27 green
+	7:
+		Forms:
+			7 organization
+			3 organizations
+		Related stems:
+			11 al
+			8 year
+			8 's
+			7 muhammad
+			6 prison
+arm.n:
+	0:
+		Forms:
+			6 arms
+			1 arm
+		Related stems:
+			4 chang
+			4 arm
+			4 hop
+			3 show
+			3 labour
+	2:
+		Forms:
+			22 arms
+		Related stems:
+			13 's
+			9 said
+			8 use
+			8 suppli
+			7 govern
+	3:
+		Forms:
+			3 arm
+		Related stems:
+			4 chair
+			3 sara
+			3 's
+			2 perch
+			2 move
+	4:
+		Forms:
+			5 arm
+			2 arms
+		Related stems:
+			7 valv
+			5 one
+			5 comput
+			5 's
+			4 seriou
+	5:
+		Forms:
+			137 arms
+			82 arm
+		Related stems:
+			163 's
+			65 arm
+			62 danc
+			56 one
+			55 back
+	6:
+		Forms:
+			14 arm
+			3 arms
+		Related stems:
+			20 polic
+			18 's
+			12 year
+			10 compani
+			10 one
+expect.v:
+	0:
+		Forms:
+			1 expected
+		Related stems:
+			2 would
+			2 's
+			1 one
+			1 disappear
+			1 n't
+	1:
+		Forms:
+			58 expected
+			41 expect
+			14 expecting
+			7 expects
+		Related stems:
+			100 's
+			44 one
+			35 year
+			34 would
+			29 said
+	2:
+		Forms:
+			26 expect
+			24 expected
+			2 expects
+			1 expecting
+		Related stems:
+			37 's
+			22 work
+			20 one
+			15 would
+			15 n't
+watch.v:
+	1:
+		Forms:
+			8 watched
+			4 watch
+			2 watching
+		Related stems:
+			4 young
+			4 would
+			4 top
+			4 n't
+			4 rover
+	2:
+		Forms:
+			1 watched
+		Related stems:
+			2 laird
+			2 cameron
+			2 's
+			1 give
+			1 straw
+	4:
+		Forms:
+			7 watch
+		Related stems:
+			5 kick
+			4 oppon
+			3 polici
+			3 wast
+			3 like
+	5:
+		Forms:
+			32 watched
+			21 watch
+			18 watching
+			1 watches
+		Related stems:
+			39 's
+			30 one
+			18 even
+			17 like
+			15 look
+	6:
+		Forms:
+			2 watched
+			1 watching
+		Related stems:
+			3 salang
+			3 like
+			3 god
+			3 soviet
+			2 salim
+	7:
+		Forms:
+			3 watching
+		Related stems:
+			4 curriculum
+			3 school
+			2 may
+			2 nation
+			2 devon
+rule.v:
+	1:
+		Forms:
+			16 ruled
+			4 rules
+			4 rule
+		Related stems:
+			23 's
+			19 govern
+			13 mr
+			13 year
+			13 parti
+	4:
+		Forms:
+			22 ruled
+			6 rule
+			1 rules
+			1 ruling
+		Related stems:
+			34 court
+			31 mr
+			30 's
+			21 said
+			17 right
+	5:
+		Forms:
+			2 rules
+			1 ruling
+			1 rule
+			1 ruled
+		Related stems:
+			7 would
+			3 day
+			3 space
+			3 use
+			3 leonard
+miss.v:
+	1:
+		Forms:
+			2 missing
+			1 misses
+			1 miss
+			1 missed
+		Related stems:
+			7 's
+			4 strike
+			3 match
+			3 one
+			3 could
+	2:
+		Forms:
+			7 missed
+			2 misses
+			2 miss
+			2 missing
+		Related stems:
+			8 said
+			8 's
+			7 point
+			6 one
+			6 like
+	3:
+		Forms:
+			6 missed
+			3 missing
+			2 miss
+		Related stems:
+			10 's
+			6 said
+			6 cup
+			6 match
+			5 injuri
+	4:
+		Forms:
+			9 missed
+			2 miss
+			1 missing
+		Related stems:
+			13 's
+			7 one
+			6 second
+			5 gener
+			5 noriega
+	5:
+		Forms:
+			1 miss
+			1 missing
+		Related stems:
+			3 like
+			3 bu
+			3 doctor
+			2 everi
+			2 wash
+	6:
+		Forms:
+			8 miss
+			5 missed
+			2 misses
+		Related stems:
+			11 's
+			7 go
+			7 'll
+			6 miss
+			5 compani
+wash.v:
+	0:
+		Forms:
+			1 wash
+			1 washing
+		Related stems:
+			4 said
+			3 maggi
+			2 'll
+			2 's
+			2 n't
+	1:
+		Forms:
+			21 washed
+			11 wash
+			5 washing
+			1 washes
+		Related stems:
+			31 's
+			16 hair
+			13 go
+			13 said
+			13 n't
+	2:
+		Forms:
+			1 washed
+		Related stems:
+			3 would
+			2 said
+			2 rita
+			2 mother
+			2 bob
+	3:
+		Forms:
+			1 wash
+			1 washed
+		Related stems:
+			3 pcb
+			3 said
+			3 water
+			2 less
+			2 easterli
+	4:
+		Forms:
+			2 washed
+			1 washing
+		Related stems:
+			3 top
+			3 forest
+			2 colberg
+			2 like
+			2 small
+	6:
+		Forms:
+			1 wash
+		Related stems:
+			2 said
+			2 's
+			2 govern
+			1 affair
+			1 tiananmen
+	7:
+		Forms:
+			4 washing
+			4 washed
+			3 wash
+		Related stems:
+			7 room
+			7 's
+			6 went
+			5 would
+			5 n't
+	8:
+		Forms:
+			1 wash
+		Related stems:
+			3 jinni
+			1 flick
+			1 golden
+			1 restlessli
+			1 fingernail
+	10:
+		Forms:
+			5 washed
+		Related stems:
+			4 good
+			3 cocoa
+			3 nut
+			3 across
+			3 one
+	12:
+		Forms:
+			1 washed
+			1 washing
+		Related stems:
+			3 much
+			2 layer
+			2 feet
+			2 channel
+			2 firm
+add.v:
+	0:
+		Forms:
+			3 added
+		Related stems:
+			2 could
+			2 open
+			2 rush
+			2 tabl
+			2 sat
+	1:
+		Forms:
+			62 add
+			49 added
+			24 adding
+			6 adds
+		Related stems:
+			126 's
+			44 hop
+			43 one
+			39 beer
+			29 two
+	2:
+		Forms:
+			1 adds
+		Related stems:
+			4 's
+			2 room
+			2 common
+			2 around
+			1 tri
+	3:
+		Forms:
+			53 added
+			13 adds
+			12 adding
+			11 add
+		Related stems:
+			62 's
+			55 said
+			45 would
+			27 one
+			26 mr
+	4:
+		Forms:
+			3 added
+			2 add
+		Related stems:
+			6 trailer
+			5 's
+			4 money
+			4 benefit
+			4 price
+	5:
+		Forms:
+			7 add
+			3 adds
+		Related stems:
+			13 n't
+			11 's
+			7 go
+			6 could
+			5 up.
+	6:
+		Forms:
+			21 add
+			18 added
+			8 adds
+			7 adding
+		Related stems:
+			39 's
+			16 new
+			15 light
+			13 may
+			12 make
+source.n:
+	1:
+		Forms:
+			3 sources
+			2 source
+		Related stems:
+			5 hotel
+			4 adopt
+			4 cathol
+			3 roman
+			3 system
+	2:
+		Forms:
+			5 source
+			2 sources
+		Related stems:
+			8 's
+			6 one
+			5 read
+			5 form
+			4 religi
+	3:
+		Forms:
+			4 sources
+			1 source
+		Related stems:
+			6 regist
+			5 commun
+			5 charg
+			4 art
+			4 's
+	4:
+		Forms:
+			7 sources
+			5 source
+		Related stems:
+			23 's
+			10 research
+			9 hercul
+			8 work
+			8 christi
+	5:
+		Forms:
+			27 source
+			7 sources
+		Related stems:
+			19 's
+			15 one
+			10 use
+			9 school
+			9 train
+	6:
+		Forms:
+			5 source
+		Related stems:
+			9 's
+			7 form
+			5 read
+			4 rowan
+			3 wood
+	7:
+		Forms:
+			2 source
+			1 sources
+		Related stems:
+			4 prison
+			4 research
+			4 inform
+			3 investig
+			3 mani
+treat.v:
+	0:
+		Forms:
+			1 treated
+		Related stems:
+			1 caus
+	1:
+		Forms:
+			17 treated
+			14 treat
+			2 treating
+			2 treats
+		Related stems:
+			28 's
+			16 mr
+			12 would
+			12 way
+			11 like
+	2:
+		Forms:
+			22 treated
+			9 treat
+			7 treating
+			1 treats
+		Related stems:
+			17 use
+			15 's
+			12 gener
+			12 first
+			12 one
+	3:
+		Forms:
+			2 treated
+			1 treat
+		Related stems:
+			6 market
+			5 's
+			4 term
+			3 candid
+			3 way
+	4:
+		Forms:
+			3 treat
+			1 treated
+		Related stems:
+			4 case
+			3 cell
+			3 cancer
+			3 doctor
+			3 take
+	5:
+		Forms:
+			3 treated
+			1 treat
+		Related stems:
+			5 's
+			4 treatment
+			4 health
+			4 bma
+			4 take
+	6:
+		Forms:
+			2 treated
+			2 treat
+		Related stems:
+			3 special
+			3 first
+			3 win
+			3 new
+			3 issu
+	7:
+		Forms:
+			15 treated
+			2 treating
+			2 treat
+		Related stems:
+			24 use
+			18 wood
+			11 paint
+			8 preserv
+			7 coat
+	8:
+		Forms:
+			2 treated
+			2 treats
+		Related stems:
+			5 art
+			5 's
+			4 book
+			3 far
+			3 would
+ask.v:
+	0:
+		Forms:
+			22 asked
+			3 ask
+		Related stems:
+			11 said
+			10 go
+			10 's
+			7 n't
+			6 think
+	1:
+		Forms:
+			50 asked
+			27 ask
+			16 asking
+			1 asks
+		Related stems:
+			40 's
+			30 n't
+			29 said
+			23 would
+			21 time
+	2:
+		Forms:
+			23 asked
+			20 ask
+			5 asking
+			3 asks
+		Related stems:
+			22 's
+			21 one
+			17 work
+			12 may
+			11 way
+	3:
+		Forms:
+			15 asked
+			8 ask
+			2 asking
+			1 asks
+		Related stems:
+			17 school
+			14 work
+			13 's
+			12 may
+			11 time
+	4:
+		Forms:
+			8 asked
+			3 ask
+			1 asking
+			1 asks
+		Related stems:
+			9 's
+			7 luci
+			7 said
+			6 jay
+			5 friend
+	5:
+		Forms:
+			50 asked
+			21 ask
+			12 asking
+		Related stems:
+			36 's
+			35 said
+			20 n't
+			19 polic
+			19 know
+	6:
+		Forms:
+			16 asked
+			9 ask
+			3 asking
+			1 asks
+		Related stems:
+			14 one
+			13 use
+			13 help
+			13 's
+			9 time
+activate.v:
+	0:
+		Forms:
+			3 activated
+			1 activates
+		Related stems:
+			5 data
+			4 equat
+			3 display
+			3 's
+			2 like
+	1:
+		Forms:
+			101 activated
+			41 activate
+			26 activating
+			22 activates
+		Related stems:
+			83 activ
+			82 's
+			63 one
+			62 cell
+			61 system
+	2:
+		Forms:
+			29 activated
+			10 activate
+			6 activating
+			3 activates
+		Related stems:
+			60 cell
+			33 activ
+			33 receptor
+			21 nmda
+			21 channel
+	3:
+		Forms:
+			22 activated
+			7 activate
+			3 activating
+			2 activates
+		Related stems:
+			18 activ
+			16 cell
+			16 associ
+			14 represent
+			13 differ
+	4:
+		Forms:
+			1 activated
+		Related stems:
+			3 lc
+			2 molecul
+			2 phase
+			2 light
+			2 scatter
+hot.a:
+	0:
+		Forms:
+			5 hot
+		Related stems:
+			3 cold
+			3 thou
+			2 art
+			2 mani
+			2 neither
+	1:
+		Forms:
+			60 hot
+		Related stems:
+			28 's
+			21 use
+			17 one
+			15 day
+			15 like
+	2:
+		Forms:
+			7 hot
+		Related stems:
+			4 's
+			3 like
+			3 templ
+			3 could
+			3 ritual
+	3:
+		Forms:
+			2 hot
+		Related stems:
+			4 dave
+			3 de
+			3 british
+			2 go
+			2 fate
+	6:
+		Forms:
+			1 hot
+		Related stems:
+			3 film
+			2 gang
+			2 polic
+			2 life
+			2 la
+	7:
+		Forms:
+			2 hot
+		Related stems:
+			3 simon
+			3 patrick
+			3 've
+			3 got
+			3 look
+	8:
+		Forms:
+			1 hot
+		Related stems:
+			2 busi
+			1 flick
+			1 great
+			1 ahead
+			1 captur
+	9:
+		Forms:
+			1 hot
+		Related stems:
+			2 money
+			2 parti
+			2 manufactur
+			2 labour
+			1 oper
+	13:
+		Forms:
+			4 hot
+		Related stems:
+			9 's
+			7 one
+			5 film
+			3 said
+			3 red
+	14:
+		Forms:
+			6 hot
+		Related stems:
+			5 's
+			3 food
+			3 oliv
+			3 sweet
+			3 spanish
+sort.n:
+	0:
+		Forms:
+			2 sort
+		Related stems:
+			5 pound
+			4 stepan
+			4 'd
+			3 apron
+			3 cake
+	1:
+		Forms:
+			53 sort
+			2 sorts
+		Related stems:
+			49 's
+			21 thing
+			19 would
+			19 n't
+			18 one
+	2:
+		Forms:
+			123 sort
+			21 sorts
+		Related stems:
+			112 's
+			53 work
+			51 art
+			48 one
+			45 would
+	3:
+		Forms:
+			12 sort
+			4 sorts
+		Related stems:
+			11 's
+			10 one
+			7 price
+			7 mani
+			6 time
+	4:
+		Forms:
+			2 sort
+			2 sorts
+		Related stems:
+			4 said
+			4 eagl
+			3 coach
+			3 tri
+			3 job
+receive.v:
+	1:
+		Forms:
+			25 received
+			17 receive
+			4 receiving
+			1 receives
+		Related stems:
+			26 prison
+			25 work
+			24 letter
+			24 's
+			21 group
+	2:
+		Forms:
+			1 receive
+		Related stems:
+			4 member
+			3 equiti
+			2 employ
+			2 manag
+			2 drama
+	4:
+		Forms:
+			2 received
+			1 receiving
+		Related stems:
+			3 ziga
+			3 commun
+			2 corpu
+			2 bomb
+			2 find
+	5:
+		Forms:
+			1 receive
+		Related stems:
+			3 leaflet
+			2 pleas
+			2 local
+			2 last
+			2 inform
+interest.n:
+	1:
+		Forms:
+			5 interests
+			3 interest
+		Related stems:
+			6 librari
+			4 work
+			4 's
+			4 one
+			4 friend
+	2:
+		Forms:
+			31 interests
+			20 interest
+		Related stems:
+			50 's
+			28 case
+			26 would
+			24 parti
+			21 public
+	3:
+		Forms:
+			28 interest
+		Related stems:
+			30 's
+			22 pub
+			19 histor
+			16 would
+			12 use
+	4:
+		Forms:
+			75 interest
+			3 interests
+		Related stems:
+			63 's
+			27 work
+			26 one
+			21 new
+			18 said
+	5:
+		Forms:
+			2 interests
+			1 interest
+		Related stems:
+			6 found
+			6 cathol
+			6 allianc
+			5 protest
+			5 loyalist
+	6:
+		Forms:
+			9 interest
+		Related stems:
+			16 tax
+			7 payment
+			6 pay
+			6 make
+			6 's
+	7:
+		Forms:
+			12 interests
+			3 interest
+		Related stems:
+			18 's
+			14 compani
+			13 board
+			11 ferranti
+			10 group
+solid.a:
+	0:
+		Forms:
+			5 solid
+		Related stems:
+			4 luci
+			3 jay
+			3 like
+			3 rain
+			2 go
+	1:
+		Forms:
+			2 solid
+		Related stems:
+			3 east
+			2 church
+			2 violenc
+			2 protect
+			2 explain
+	2:
+		Forms:
+			5 solid
+		Related stems:
+			7 wall
+			6 machin
+			5 cabl
+			5 tabl
+			5 insul
+	4:
+		Forms:
+			1 solid
+		Related stems:
+			3 bag
+			2 sleep
+			2 damp
+			1 clog
+			1 altitud
+	5:
+		Forms:
+			16 solid
+		Related stems:
+			12 's
+			8 one
+			6 pound
+			5 school
+			5 even
+	6:
+		Forms:
+			8 solid
+		Related stems:
+			8 's
+			7 box
+			6 wall
+			6 make
+			5 light
+	7:
+		Forms:
+			3 solid
+		Related stems:
+			6 need
+			6 dragon
+			5 use
+			4 wood
+			3 realis
+	8:
+		Forms:
+			4 solid
+		Related stems:
+			4 's
+			3 thomson
+			3 iee
+			3 work
+			3 purdi
+	10:
+		Forms:
+			1 solid
+		Related stems:
+			3 rang
+			3 door
+			2 replac
+			2 drawer
+			2 pine
+	11:
+		Forms:
+			11 solid
+		Related stems:
+			6 year
+			6 's
+			5 school
+			5 new
+			5 indi
+	12:
+		Forms:
+			4 solid
+		Related stems:
+			3 summer
+			3 blue
+			2 jay
+			2 young
+			2 like
+	13:
+		Forms:
+			3 solid
+		Related stems:
+			6 social
+			3 govern
+			2 opposit
+			2 chancellor
+			2 wave
+difficulty.n:
+	0:
+		Forms:
+			1 difficulty
+		Related stems:
+			9 one
+			3 's
+			1 art
+			1 restless
+			1 scratch
+	1:
+		Forms:
+			11 difficulty
+			3 difficulties
+		Related stems:
+			15 's
+			8 one
+			5 sens
+			5 would
+			5 work
+	2:
+		Forms:
+			5 difficulty
+		Related stems:
+			6 aesthet
+			5 experi
+			4 candid
+			4 sculptur
+			4 may
+	3:
+		Forms:
+			8 difficulties
+			7 difficulty
+		Related stems:
+			18 's
+			11 work
+			7 would
+			7 say
+			7 object
+	4:
+		Forms:
+			8 difficulties
+			5 difficulty
+		Related stems:
+			11 's
+			7 person
+			6 wing
+			6 wind
+			6 pull
+image.n:
+	0:
+		Forms:
+			4 image
+			2 images
+		Related stems:
+			4 surfac
+			4 note
+			4 's
+			4 ladder
+			3 aquatint
+	1:
+		Forms:
+			43 image
+			16 images
+		Related stems:
+			70 bit
+			40 file
+			36 use
+			32 pixel
+			31 's
+	2:
+		Forms:
+			1 image
+		Related stems:
+			3 madonna
+			3 theme
+			2 critic
+			2 use
+			2 far
+	3:
+		Forms:
+			57 image
+			1 images
+		Related stems:
+			64 's
+			34 polic
+			31 new
+			30 mr
+			27 one
+	4:
+		Forms:
+			11 image
+			7 images
+		Related stems:
+			26 's
+			13 one
+			10 work
+			8 thing
+			8 mind
+	5:
+		Forms:
+			4 image
+		Related stems:
+			5 parti
+			4 art
+			4 post
+			4 's
+			3 critic
+	6:
+		Forms:
+			2 image
+			1 images
+		Related stems:
+			4 freedom
+			3 tell
+			3 's
+			2 kite
+			2 theatr
+	7:
+		Forms:
+			1 image
+		Related stems:
+			3 would
+			2 harriet
+			1 regret
+			1 stick
+			1 rank
+write.v:
+	2:
+		Forms:
+			5 write
+			4 writing
+			3 written
+			3 wrote
+		Related stems:
+			29 art
+			20 work
+			17 artist
+			14 's
+			10 critic
+	3:
+		Forms:
+			4 write
+			4 written
+			2 wrote
+			1 writing
+		Related stems:
+			17 artist
+			14 's
+			10 catalogu
+			9 pictur
+			8 and/or
+	5:
+		Forms:
+			1 written
+		Related stems:
+			4 sea
+			4 upon
+			3 shadow
+			3 like
+			3 along
+	7:
+		Forms:
+			4 written
+		Related stems:
+			6 's
+			4 improvis
+			4 well
+			3 ye
+			3 continu
+	8:
+		Forms:
+			11 write
+			3 writing
+		Related stems:
+			18 letter
+			12 pleas
+			11 work
+			9 would
+			8 's
+win.v:
+	0:
+		Forms:
+			4 won
+			2 win
+		Related stems:
+			3 month
+			3 day
+			3 way
+			3 without
+			2 still
+	1:
+		Forms:
+			10 win
+			5 won
+			3 winning
+			2 wins
+		Related stems:
+			18 's
+			12 one
+			10 team
+			8 point
+			7 bout
+	3:
+		Forms:
+			6 win
+			4 won
+			1 winning
+		Related stems:
+			10 's
+			6 senna
+			6 race
+			6 fido
+			5 second
+	4:
+		Forms:
+			16 win
+			13 won
+			6 winning
+			5 wins
+		Related stems:
+			32 's
+			19 prize
+			19 one
+			18 year
+			14 win
+	5:
+		Forms:
+			1 win
+		Related stems:
+			3 neto
+			3 's
+			2 leav
+			2 last
+			2 angolan
+	6:
+		Forms:
+			1 win
+			1 won
+			1 winning
+		Related stems:
+			4 day
+			3 cabl
+			3 first
+			3 kelvin
+			2 thomson
+decide.v:
+	1:
+		Forms:
+			14 decided
+			12 decide
+			2 deciding
+		Related stems:
+			24 's
+			11 may
+			11 pound
+			10 canto
+			9 would
+	2:
+		Forms:
+			1 deciding
+		Related stems:
+			9 team
+			3 match
+			2 win
+			2 bout
+			2 may
+	3:
+		Forms:
+			65 decided
+			14 decide
+			6 deciding
+			3 decides
+		Related stems:
+			39 one
+			34 's
+			29 n't
+			28 go
+			26 would
+	4:
+		Forms:
+			3 decide
+			2 deciding
+			2 decided
+		Related stems:
+			6 group
+			6 author
+			5 funer
+			5 religi
+			5 clergi
+simple.a:
+	2:
+		Forms:
+			14 simple
+		Related stems:
+			10 art
+			9 's
+			7 work
+			6 critic
+			6 element
+	3:
+		Forms:
+			12 simple
+		Related stems:
+			9 tax
+			9 coven
+			7 art
+			7 's
+			6 flu
+	5:
+		Forms:
+			8 simple
+		Related stems:
+			12 beer
+			8 bar
+			7 pub
+			6 mani
+			6 serv
+	7:
+		Forms:
+			5 simple
+		Related stems:
+			5 school
+			5 end
+			4 one
+			4 's
+			3 protest
+note.v:
+	1:
+		Forms:
+			25 note
+			19 noted
+			8 noting
+		Related stems:
+			29 's
+			15 one
+			13 also
+			12 school
+			12 first
+	2:
+		Forms:
+			7 noted
+			2 note
+			1 notes
+		Related stems:
+			12 's
+			7 pub
+			6 cathol
+			5 two
+			5 one
+	3:
+		Forms:
+			54 noted
+			8 noting
+			6 note
+			4 notes
+		Related stems:
+			46 's
+			32 one
+			23 also
+			21 govern
+			21 use
+different.a:
+	0:
+		Forms:
+			3 different
+		Related stems:
+			4 's
+			3 aquatint
+			3 photograph
+			2 ale
+			2 woman
+	1:
+		Forms:
+			53 different
+		Related stems:
+			29 's
+			27 work
+			25 one
+			18 art
+			15 time
+	2:
+		Forms:
+			21 different
+		Related stems:
+			24 's
+			16 artist
+			14 work
+			14 art
+			10 exhibit
+	3:
+		Forms:
+			4 different
+		Related stems:
+			8 art
+			4 historian
+			4 offer
+			4 work
+			4 write
+	4:
+		Forms:
+			10 different
+		Related stems:
+			8 's
+			7 one
+			7 art
+			6 still
+			6 artist
+	5:
+		Forms:
+			19 different
+		Related stems:
+			12 's
+			11 brain
+			10 experi
+			9 use
+			9 one
+hear.v:
+	0:
+		Forms:
+			1 hear
+		Related stems:
+			1 vestur
+			1 wanton
+			1 harmoni
+			1 decay
+			1 youth
+	1:
+		Forms:
+			14 heard
+			11 hear
+			1 hearing
+		Related stems:
+			14 said
+			11 time
+			11 's
+			10 nois
+			10 bell
+	2:
+		Forms:
+			17 heard
+			13 hear
+		Related stems:
+			21 's
+			14 school
+			11 one
+			11 say
+			11 said
+	3:
+		Forms:
+			1 heard
+		Related stems:
+			1 hold
+			1 intend
+			1 announc
+			1 god
+			1 clearli
+	4:
+		Forms:
+			1 heard
+			1 hear
+		Related stems:
+			2 govern
+			2 thousand
+			2 els
+			2 must
+			2 lieuten
+	6:
+		Forms:
+			2 heard
+			1 hear
+		Related stems:
+			5 famili
+			4 public
+			4 purchas
+			2 sector
+			2 queen
+mean.v:
+	0:
+		Forms:
+			1 means
+		Related stems:
+			2 home
+			2 area
+			2 infect
+			2 care
+			1 pleas
+	1:
+		Forms:
+			1 meant
+			1 mean
+		Related stems:
+			2 go
+			2 n't
+			2 know
+			1 patron
+			1 jeff
+	2:
+		Forms:
+			40 mean
+			3 meant
+			3 means
+		Related stems:
+			33 's
+			21 said
+			16 go
+			16 n't
+			14 think
+	3:
+		Forms:
+			2 mean
+			1 meant
+			1 means
+		Related stems:
+			6 word
+			5 cast
+			4 two
+			4 play
+			3 mean
+	4:
+		Forms:
+			4 meant
+		Related stems:
+			12 's
+			10 novel
+			6 may
+			4 book
+			3 also
+	5:
+		Forms:
+			12 means
+			8 mean
+			3 meant
+		Related stems:
+			11 one
+			11 's
+			10 work
+			9 school
+			9 would
+	7:
+		Forms:
+			1 mean
+		Related stems:
+			4 wrote
+			3 doubt
+			2 reason
+			2 organ
+			2 time
+eat.v:
+	0:
+		Forms:
+			1 eat
+			1 eaten
+		Related stems:
+			4 soil
+			3 love
+			3 heavi
+			3 make
+			3 late
+	1:
+		Forms:
+			69 eat
+			37 eating
+			29 eaten
+			14 ate
+		Related stems:
+			69 's
+			46 one
+			36 like
+			34 said
+			32 n't
+	3:
+		Forms:
+			6 eat
+			2 eating
+		Related stems:
+			6 old
+			4 know
+			4 like
+			4 howev
+			4 one
+	6:
+		Forms:
+			13 eat
+			9 eating
+			3 eaten
+			2 ate
+		Related stems:
+			15 's
+			13 food
+			12 pub
+			9 n't
+			7 peopl
+operate.v:
+	1:
+		Forms:
+			3 operate
+			3 operating
+		Related stems:
+			5 train
+			5 properti
+			5 conscious
+			4 emerg
+			4 system
+	2:
+		Forms:
+			10 operate
+			3 operated
+			2 operating
+			2 operates
+		Related stems:
+			24 polic
+			13 time
+			9 one
+			7 use
+			7 system
+	5:
+		Forms:
+			9 operated
+			2 operating
+			1 operate
+		Related stems:
+			13 beer
+			9 need
+			9 pump
+			9 bar
+			7 home
+difference.n:
+	0:
+		Forms:
+			4 difference
+		Related stems:
+			5 feel
+			5 differ
+			4 neela
+			3 mode
+			2 assimil
+	1:
+		Forms:
+			66 difference
+			40 differences
+		Related stems:
+			66 's
+			50 one
+			47 differ
+			43 reader
+			35 work
+	2:
+		Forms:
+			21 differences
+			7 difference
+		Related stems:
+			26 's
+			18 mr
+			17 parti
+			11 one
+			11 differ
+	3:
+		Forms:
+			28 difference
+			13 differences
+		Related stems:
+			43 's
+			25 one
+			17 differ
+			15 knowledg
+			15 like
+	4:
+		Forms:
+			33 difference
+			1 differences
+		Related stems:
+			42 per
+			36 campaign
+			34 cent
+			18 differ
+			17 's
+	5:
+		Forms:
+			43 difference
+			4 differences
+		Related stems:
+			37 's
+			28 make
+			20 differ
+			19 one
+			17 time
+encounter.v:
+	1:
+		Forms:
+			52 encountered
+			10 encounter
+			2 encounters
+			1 encountering
+		Related stems:
+			44 's
+			32 one
+			23 time
+			23 like
+			17 even
+	2:
+		Forms:
+			2 encountered
+		Related stems:
+			2 reid
+			2 wait
+			2 austria
+			2 fought
+			2 's
+	3:
+		Forms:
+			34 encountered
+			10 encounter
+			7 encounters
+			4 encountering
+		Related stems:
+			37 problem
+			30 's
+			17 work
+			16 one
+			15 difficulti
+	4:
+		Forms:
+			4 encountered
+			3 encounter
+			2 encountering
+		Related stems:
+			6 said
+			6 's
+			4 go
+			4 day
+			4 british
+smell.v:
+	0:
+		Forms:
+			3 smell
+		Related stems:
+			2 catherin
+			2 car
+			2 like
+			2 meet
+			2 hello
+	1:
+		Forms:
+			29 smell
+			9 smelling
+			3 smelt
+			1 smells
+			1 smelled
+		Related stems:
+			29 's
+			25 smell
+			19 could
+			12 one
+			11 see
+	2:
+		Forms:
+			2 smelling
+		Related stems:
+			5 garden
+			3 cook
+			3 may
+			2 activ
+			2 watch
+	3:
+		Forms:
+			7 smell
+			1 smelled
+		Related stems:
+			6 one
+			6 's
+			5 fund
+			4 countri
+			4 well
+	4:
+		Forms:
+			18 smelling
+			10 smell
+			9 smelled
+			7 smells
+		Related stems:
+			33 's
+			24 like
+			17 smell
+			15 good
+			15 look
+	5:
+		Forms:
+			2 smell
+			1 smelled
+			1 smells
+		Related stems:
+			6 n't
+			2 bad
+			2 one
+			2 want
+			2 make
+	6:
+		Forms:
+			5 smelled
+			3 smell
+			2 smelling
+		Related stems:
+			8 room
+			4 turn
+			4 said
+			4 look
+			3 past
+plan.n:
+	0:
+		Forms:
+			5 plans
+			2 plan
+		Related stems:
+			5 clay
+			4 wrote
+			4 bitter
+			3 help
+			3 littl
+	1:
+		Forms:
+			15 plans
+			10 plan
+		Related stems:
+			25 plan
+			24 build
+			20 work
+			11 clock
+			11 pub
+	2:
+		Forms:
+			75 plan
+			59 plans
+		Related stems:
+			111 's
+			51 new
+			50 said
+			44 would
+			39 plan
+	3:
+		Forms:
+			23 plan
+			8 plans
+		Related stems:
+			26 's
+			20 pub
+			14 histor
+			12 open
+			11 interior
