@@ -12,6 +12,12 @@ begin.v:
 			33 one
 			27 late
 			26 wors
+		Nearby stems:
+			11 to
+			9 too
+			7 .
+			6 soon
+			4 and
 	1:
 		Forms:
 			42 began
@@ -25,6 +31,12 @@ begin.v:
 			38 one
 			29 work
 			27 take
+		Nearby stems:
+			74 to
+			15 and
+			14 ,
+			13 .
+			12 the
 	2:
 		Forms:
 			15 began
@@ -38,6 +50,12 @@ begin.v:
 			16 new
 			16 one
 			15 year
+		Nearby stems:
+			9 the
+			7 to
+			7 .
+			5 ,
+			5 a
 	3:
 		Forms:
 			27 began
@@ -51,6 +69,12 @@ begin.v:
 			31 begin
 			27 soon
 			22 prepar
+		Nearby stems:
+			38 to
+			11 .
+			9 and
+			6 too
+			5 soon
 	4:
 		Forms:
 			2 beginning
@@ -63,6 +87,12 @@ begin.v:
 			3 like
 			3 list
 			3 guy
+		Nearby stems:
+			4 to
+			1 a
+			1 and
+			1 horticulturist
+			1 her
 atmosphere.n:
 	0:
 		Forms:
@@ -73,6 +103,12 @@ atmosphere.n:
 			5 one
 			4 next
 			4 hous
+		Nearby stems:
+			6 the
+			3 and
+			3 an
+			3 that
+			3 ,
 	1:
 		Forms:
 			51 atmosphere
@@ -82,6 +118,12 @@ atmosphere.n:
 			18 one
 			18 creat
 			17 give
+		Nearby stems:
+			29 the
+			18 of
+			11 and
+			9 .
+			8 ,
 	2:
 		Forms:
 			20 atmosphere
@@ -91,6 +133,12 @@ atmosphere.n:
 			9 earth
 			9 power
 			8 nuclear
+		Nearby stems:
+			19 the
+			7 ,
+			5 .
+			4 and
+			2 can
 	3:
 		Forms:
 			8 atmosphere
@@ -100,6 +148,12 @@ atmosphere.n:
 			4 radio
 			4 conif
 			4 rainforest
+		Nearby stems:
+			9 the
+			2 and
+			1 dioxid
+			1 is
+			1 stuffi
 	5:
 		Forms:
 			5 atmosphere
@@ -109,6 +163,12 @@ atmosphere.n:
 			4 level
 			3 rise
 			3 page
+		Nearby stems:
+			3 and
+			2 the
+			1 ;
+			1 do
+			1 record
 	6:
 		Forms:
 			103 atmosphere
@@ -118,6 +178,12 @@ atmosphere.n:
 			32 would
 			29 creat
 			27 children
+		Nearby stems:
+			56 the
+			31 of
+			19 and
+			16 an
+			15 ,
 play.v:
 	0:
 		Forms:
@@ -129,6 +195,12 @@ play.v:
 			2 still
 			2 jay
 			2 school
+		Nearby stems:
+			1 and
+			1 then
+			1 some
+			1 shall
+			1 of
 	1:
 		Forms:
 			17 played
@@ -141,6 +213,12 @@ play.v:
 			19 school
 			19 actor
 			17 part
+		Nearby stems:
+			13 in
+			10 to
+			9 a
+			9 the
+			7 part
 	2:
 		Forms:
 			8 play
@@ -153,6 +231,12 @@ play.v:
 			10 part
 			10 art
 			9 year
+		Nearby stems:
+			8 a
+			7 part
+			5 to
+			5 role
+			4 .
 	4:
 		Forms:
 			4 playing
@@ -163,6 +247,12 @@ play.v:
 			6 shriver
 			5 power
 			5 oppon
+		Nearby stems:
+			2 cricket
+			2 's
+			2 ,
+			2 french
+			2 were
 	5:
 		Forms:
 			4 played
@@ -174,6 +264,12 @@ play.v:
 			3 express
 			3 drove
 			3 time
+		Nearby stems:
+			4 the
+			3 to
+			2 wa
+			2 -
+			1 a
 	8:
 		Forms:
 			6 playing
@@ -185,6 +281,12 @@ play.v:
 			5 hot
 			5 art
 			5 dog
+		Nearby stems:
+			7 with
+			4 and
+			4 .
+			2 in
+			2 children
 	9:
 		Forms:
 			3 played
@@ -196,6 +298,12 @@ play.v:
 			3 like
 			3 wrote
 			3 said
+		Nearby stems:
+			3 for
+			2 the
+			1 and
+			1 then
+			1 friend
 	10:
 		Forms:
 			3 play
@@ -207,6 +315,12 @@ play.v:
 			6 glider
 			5 launch
 			4 downwind
+		Nearby stems:
+			4 safe
+			3 and
+			3 .
+			2 it
+			1 earli
 	11:
 		Forms:
 			3 playing
@@ -217,6 +331,12 @@ play.v:
 			6 pictur
 			4 girl
 			4 would
+		Nearby stems:
+			2 off
+			2 to
+			1 and
+			1 guitar
+			1 would
 	12:
 		Forms:
 			1 plays
@@ -226,6 +346,11 @@ play.v:
 			2 idea
 			2 chatterton
 			2 live
+		Nearby stems:
+			1 such
+			1 with
+			1 it
+			1 idea
 argument.n:
 	0:
 		Forms:
@@ -237,6 +362,12 @@ argument.n:
 			6 reason
 			6 must
 			5 first
+		Nearby stems:
+			6 the
+			4 .
+			2 ,
+			1 and
+			1 is
 	1:
 		Forms:
 			7 argument
@@ -247,6 +378,12 @@ argument.n:
 			8 concept
 			8 one
 			7 would
+		Nearby stems:
+			3 and
+			3 .
+			3 the
+			2 in
+			2 an
 	2:
 		Forms:
 			44 argument
@@ -257,6 +394,12 @@ argument.n:
 			29 one
 			22 polit
 			18 polic
+		Nearby stems:
+			29 the
+			12 .
+			9 ,
+			9 and
+			7 in
 	3:
 		Forms:
 			11 argument
@@ -267,6 +410,12 @@ argument.n:
 			10 new
 			10 critic
 			10 book
+		Nearby stems:
+			6 the
+			4 ,
+			3 .
+			3 's
+			3 a
 	4:
 		Forms:
 			88 argument
@@ -277,6 +426,12 @@ argument.n:
 			51 would
 			38 state
 			35 could
+		Nearby stems:
+			65 the
+			25 that
+			17 ,
+			17 is
+			16 for
 	5:
 		Forms:
 			35 argument
@@ -287,6 +442,12 @@ argument.n:
 			15 school
 			14 would
 			12 old
+		Nearby stems:
+			16 the
+			9 .
+			9 and
+			8 an
+			7 ,
 bank.n:
 	0:
 		Forms:
@@ -298,6 +459,12 @@ bank.n:
 			3 bank
 			3 'd
 			3 claim
+		Nearby stems:
+			3 the
+			1 nearest
+			1 head
+			1 wa
+			1 for
 	1:
 		Forms:
 			4 bank
@@ -307,6 +474,12 @@ bank.n:
 			7 turn
 			5 side
 			4 littl
+		Nearby stems:
+			4 of
+			2 ,
+			2 the
+			1 tri
+			1 and
 	2:
 		Forms:
 			25 bank
@@ -317,6 +490,12 @@ bank.n:
 			11 citi
 			10 bank
 			10 eliot
+		Nearby stems:
+			16 the
+			8 .
+			6 ,
+			5 -
+			5 a
 	4:
 		Forms:
 			103 banks
@@ -327,6 +506,12 @@ bank.n:
 			90 per
 			88 cent
 			67 would
+		Nearby stems:
+			101 the
+			30 to
+			30 .
+			28 ,
+			24 and
 	5:
 		Forms:
 			4 banks
@@ -337,6 +522,12 @@ bank.n:
 			7 light
 			6 beer
 			6 left
+		Nearby stems:
+			7 of
+			3 .
+			2 beer
+			1 handpump
+			1 classic
 	6:
 		Forms:
 			6 bank
@@ -347,6 +538,12 @@ bank.n:
 			6 posit
 			6 wound
 			4 go
+		Nearby stems:
+			4 the
+			2 and
+			2 grassi
+			2 to
+			1 among
 	7:
 		Forms:
 			26 bank
@@ -357,6 +554,12 @@ bank.n:
 			16 bridg
 			15 could
 			14 hous
+		Nearby stems:
+			29 the
+			11 of
+			8 river
+			7 .
+			7 ,
 	8:
 		Forms:
 			2 bank
@@ -367,6 +570,12 @@ bank.n:
 			3 stile
 			3 go
 			3 cancel
+		Nearby stems:
+			1 and
+			1 danger
+			1 steep
+			1 were
+			1 snow
 	9:
 		Forms:
 			1 bank
@@ -376,6 +585,11 @@ bank.n:
 			2 madrid
 			2 nobel
 			2 tim
+		Nearby stems:
+			1 of
+			1 plant
+			1 seed
+			1 for
 	10:
 		Forms:
 			1 bank
@@ -385,6 +599,11 @@ bank.n:
 			2 throughout
 			2 boot
 			2 inner
+		Nearby stems:
+			1 the
+			1 :
+			1 price
+			1 .
 produce.v:
 	1:
 		Forms:
@@ -398,6 +617,12 @@ produce.v:
 			30 one
 			26 differ
 			25 polic
+		Nearby stems:
+			26 a
+			20 to
+			14 .
+			13 the
+			10 ,
 	2:
 		Forms:
 			30 produced
@@ -410,6 +635,12 @@ produce.v:
 			30 's
 			19 brew
 			16 produc
+		Nearby stems:
+			21 a
+			16 to
+			9 of
+			9 the
+			8 by
 	3:
 		Forms:
 			1 produced
@@ -419,6 +650,11 @@ produce.v:
 			3 's
 			2 stay
 			1 oper
+		Nearby stems:
+			1 !
+			1 onli
+			1 had
+			1 son
 	4:
 		Forms:
 			2 produced
@@ -428,6 +664,12 @@ produce.v:
 			2 group
 			2 one
 			2 church
+		Nearby stems:
+			1 and
+			1 a
+			1 macadoo
+			1 harri
+			1 been
 	5:
 		Forms:
 			20 produced
@@ -438,6 +680,12 @@ produce.v:
 			19 work
 			19 televis
 			15 one
+		Nearby stems:
+			6 and
+			6 by
+			5 the
+			4 .
+			3 (
 	6:
 		Forms:
 			4 produce
@@ -449,6 +697,12 @@ produce.v:
 			4 one
 			4 roman
 			4 pain
+		Nearby stems:
+			3 i
+			2 a
+			2 difficulti
+			2 can
+			2 in
 important.a:
 	1:
 		Forms:
@@ -459,6 +713,12 @@ important.a:
 			11 art
 			7 new
 			7 theatr
+		Nearby stems:
+			4 an
+			4 to
+			4 the
+			3 is
+			3 of
 	2:
 		Forms:
 			15 important
@@ -468,6 +728,12 @@ important.a:
 			8 much
 			7 need
 			6 help
+		Nearby stems:
+			5 is
+			5 to
+			4 that
+			3 .
+			3 you
 	3:
 		Forms:
 			14 important
@@ -477,6 +743,12 @@ important.a:
 			10 work
 			8 critic
 			6 new
+		Nearby stems:
+			4 an
+			3 art
+			3 are
+			3 in
+			3 the
 	4:
 		Forms:
 			1 important
@@ -486,6 +758,11 @@ important.a:
 			2 includ
 			2 tradit
 			1 imperson
+		Nearby stems:
+			1 nevertheless
+			1 self
+			1 -
+			1 singl
 	5:
 		Forms:
 			6 important
@@ -495,6 +772,12 @@ important.a:
 			5 critic
 			5 polic
 			5 's
+		Nearby stems:
+			2 in
+			2 an
+			2 to
+			1 and
+			1 foreign
 judgment.n:
 	1:
 		Forms:
@@ -506,6 +789,12 @@ judgment.n:
 			14 forest
 			13 appel
 			13 defend
+		Nearby stems:
+			9 the
+			5 a
+			5 of
+			4 in
+			4 court
 	2:
 		Forms:
 			10 judgments
@@ -516,6 +805,12 @@ judgment.n:
 			8 said
 			7 make
 			6 forest
+		Nearby stems:
+			8 ,
+			4 make
+			4 on
+			3 pass
+			3 .
 	3:
 		Forms:
 			2 judgment
@@ -525,6 +820,12 @@ judgment.n:
 			2 lawson
 			2 honour
 			2 free
+		Nearby stems:
+			1 and
+			1 both
+			1 profession
+			1 ,
+			1 hi
 	4:
 		Forms:
 			6 judgment
@@ -534,6 +835,12 @@ judgment.n:
 			4 author
 			4 's
 			3 lord
+		Nearby stems:
+			2 of
+			2 in
+			2 but
+			2 hi
+			1 and
 	5:
 		Forms:
 			1 judgment
@@ -543,6 +850,11 @@ judgment.n:
 			1 wale
 			1 brave
 			1 repres
+		Nearby stems:
+			1 whose
+			1 distanc
+			1 had
+			1 of
 	6:
 		Forms:
 			8 judgment
@@ -553,6 +865,12 @@ judgment.n:
 			6 one
 			6 's
 			5 lea
+		Nearby stems:
+			4 ,
+			4 .
+			4 of
+			4 the
+			3 a
 	7:
 		Forms:
 			5 judgment
@@ -563,6 +881,12 @@ judgment.n:
 			8 class
 			6 appeal
 			6 's
+		Nearby stems:
+			4 the
+			2 or
+			2 .
+			2 order
+			1 and
 use.v:
 	1:
 		Forms:
@@ -576,6 +900,12 @@ use.v:
 			9 word
 			8 wlflinn
 			8 histori
+		Nearby stems:
+			5 a
+			4 the
+			2 as
+			2 for
+			2 .
 	4:
 		Forms:
 			1 use
@@ -585,6 +915,11 @@ use.v:
 			1 feel
 			1 ca
 			1 life
+		Nearby stems:
+			1 regularli
+			1 who
+			1 find
+			1 drug
 	5:
 		Forms:
 			8 used
@@ -594,6 +929,12 @@ use.v:
 			5 use
 			5 's
 			5 museum
+		Nearby stems:
+			9 to
+			3 say
+			2 i
+			2 that
+			2 be
 lose.v:
 	1:
 		Forms:
@@ -604,6 +945,12 @@ lose.v:
 			5 e.g.
 			4 london
 			4 end
+		Nearby stems:
+			3 ,
+			2 and
+			2 is
+			2 said
+			2 umbrella
 	2:
 		Forms:
 			4 lost
@@ -615,6 +962,12 @@ lose.v:
 			5 cloud
 			5 would
 			5 peopl
+		Nearby stems:
+			3 ,
+			2 and
+			2 have
+			2 your
+			2 to
 	3:
 		Forms:
 			4 losing
@@ -627,6 +980,12 @@ lose.v:
 			7 two
 			7 put
 			7 kick
+		Nearby stems:
+			6 the
+			4 to
+			2 ,
+			2 game
+			2 he
 	4:
 		Forms:
 			17 lost
@@ -639,6 +998,12 @@ lose.v:
 			13 late
 			11 even
 			9 one
+		Nearby stems:
+			6 and
+			6 .
+			6 of
+			5 hi
+			5 the
 	5:
 		Forms:
 			3 lost
@@ -650,6 +1015,12 @@ lose.v:
 			7 father
 			6 napoleon
 			5 lizzi
+		Nearby stems:
+			2 a
+			2 had
+			2 father
+			1 on
+			1 and
 	6:
 		Forms:
 			2 lost
@@ -659,6 +1030,12 @@ lose.v:
 			3 offic
 			2 young
 			2 donat
+		Nearby stems:
+			1 be
+			1 on
+			1 young
+			1 is
+			1 it
 	7:
 		Forms:
 			1 losing
@@ -668,6 +1045,11 @@ lose.v:
 			1 unbridl
 			1 point
 			1 replac
+		Nearby stems:
+			1 way
+			1 it
+			1 allegedli
+			1 .
 provide.v:
 	1:
 		Forms:
@@ -680,6 +1062,12 @@ provide.v:
 			4 fairfield
 			4 hotel
 			4 work
+		Nearby stems:
+			6 with
+			3 a
+			2 you
+			1 poem
+			1 what
 	2:
 		Forms:
 			57 provide
@@ -692,6 +1080,12 @@ provide.v:
 			37 help
 			34 peopl
 			34 also
+		Nearby stems:
+			33 to
+			24 a
+			18 the
+			15 for
+			15 and
 	3:
 		Forms:
 			8 provided
@@ -703,6 +1097,12 @@ provide.v:
 			7 tri
 			7 make
 			6 speed
+		Nearby stems:
+			7 that
+			6 ,
+			3 is
+			3 the
+			2 your
 	5:
 		Forms:
 			2 provide
@@ -713,6 +1113,12 @@ provide.v:
 			4 want
 			4 well
 			3 know
+		Nearby stems:
+			4 for
+			2 ,
+			1 and
+			1 all
+			1 to
 suspend.v:
 	0:
 		Forms:
@@ -723,6 +1129,11 @@ suspend.v:
 			2 's
 			2 debt
 			2 bank
+		Nearby stems:
+			1 advertis
+			1 share
+			1 atp
+			1 in
 	1:
 		Forms:
 			13 suspended
@@ -733,6 +1144,12 @@ suspend.v:
 			6 point
 			5 rope
 			5 feet
+		Nearby stems:
+			4 from
+			4 the
+			3 ceil
+			3 a
+			3 abov
 	2:
 		Forms:
 			33 suspended
@@ -744,6 +1161,12 @@ suspend.v:
 			20 said
 			16 year
 			15 unit
+		Nearby stems:
+			14 .
+			12 the
+			11 to
+			6 be
+			5 ,
 	3:
 		Forms:
 			4 suspend
@@ -755,6 +1178,12 @@ suspend.v:
 			7 yesterday
 			6 court
 			6 said
+		Nearby stems:
+			4 to
+			3 until
+			2 be
+			2 it
+			2 judgment
 	4:
 		Forms:
 			12 suspended
@@ -766,6 +1195,12 @@ suspend.v:
 			9 year
 			8 mr
 			7 peopl
+		Nearby stems:
+			3 and
+			3 ,
+			3 .
+			3 the
+			2 constitut
 	5:
 		Forms:
 			37 suspended
@@ -776,6 +1211,12 @@ suspend.v:
 			20 said
 			18 player
 			17 last
+		Nearby stems:
+			16 for
+			7 wa
+			7 were
+			6 ,
+			6 been
 	6:
 		Forms:
 			3 suspended
@@ -785,6 +1226,12 @@ suspend.v:
 			3 share
 			2 brother
 			2 robbin
+		Nearby stems:
+			2 in
+			2 the
+			1 75p
+			1 were
+			1 hang
 	7:
 		Forms:
 			3 suspended
@@ -794,6 +1241,12 @@ suspend.v:
 			3 sub
 			3 profit
 			3 sharp
+		Nearby stems:
+			1 israel
+			1 anim
+			1 last
+			1 share
+			1 after
 performance.n:
 	0:
 		Forms:
@@ -804,6 +1257,12 @@ performance.n:
 			3 smoke
 			3 make
 			2 express
+		Nearby stems:
+			2 's
+			2 after
+			2 .
+			1 me
+			1 overal
 	1:
 		Forms:
 			45 performance
@@ -814,6 +1273,12 @@ performance.n:
 			18 per
 			18 cent
 			14 work
+		Nearby stems:
+			16 of
+			9 the
+			8 in
+			7 ,
+			7 and
 	2:
 		Forms:
 			36 performance
@@ -824,6 +1289,12 @@ performance.n:
 			23 perform
 			23 may
 			16 music
+		Nearby stems:
+			14 .
+			11 the
+			7 of
+			6 ,
+			6 in
 	3:
 		Forms:
 			15 performance
@@ -834,6 +1305,12 @@ performance.n:
 			7 first
 			6 two
 			6 second
+		Nearby stems:
+			4 .
+			3 in
+			3 the
+			2 and
+			2 ,
 	4:
 		Forms:
 			32 performance
@@ -844,6 +1321,12 @@ performance.n:
 			18 perform
 			16 theatr
 			16 first
+		Nearby stems:
+			16 the
+			9 .
+			9 a
+			8 of
+			6 and
 	5:
 		Forms:
 			34 performance
@@ -853,6 +1336,12 @@ performance.n:
 			15 use
 			14 perform
 			14 mani
+		Nearby stems:
+			10 of
+			9 ,
+			8 the
+			6 high
+			6 -
 express.v:
 	0:
 		Forms:
@@ -863,6 +1352,11 @@ express.v:
 			4 know
 			4 free
 			3 chamberlain
+		Nearby stems:
+			1 strongli
+			1 snowden
+			1 the
+			1 view
 	1:
 		Forms:
 			51 expressed
@@ -875,6 +1369,12 @@ express.v:
 			26 would
 			26 polic
 			21 concern
+		Nearby stems:
+			20 the
+			12 in
+			9 by
+			8 ,
+			8 to
 	2:
 		Forms:
 			5 expressed
@@ -886,6 +1386,12 @@ express.v:
 			4 one
 			4 argument
 			4 also
+		Nearby stems:
+			2 as
+			2 are
+			2 in
+			2 themselv
+			1 is
 	3:
 		Forms:
 			1 expressed
@@ -895,6 +1401,11 @@ express.v:
 			2 style
 			2 heseltin
 			2 's
+		Nearby stems:
+			1 past
+			1 the
+			1 publicli
+			1 in
 	4:
 		Forms:
 			15 expressed
@@ -907,6 +1418,12 @@ express.v:
 			8 home
 			7 use
 			7 also
+		Nearby stems:
+			8 in
+			4 by
+			4 a
+			4 the
+			3 and
 audience.n:
 	0:
 		Forms:
@@ -918,6 +1435,12 @@ audience.n:
 			4 film
 			3 remind
 			3 public
+		Nearby stems:
+			4 .
+			3 ,
+			1 and
+			1 over
+			1 1922
 	1:
 		Forms:
 			2 audience
@@ -927,6 +1450,12 @@ audience.n:
 			2 mission
 			2 small
 			2 dogmat
+		Nearby stems:
+			1 and
+			1 norwood
+			1 invit
+			1 of
+			1 ,
 	2:
 		Forms:
 			122 audience
@@ -937,6 +1466,12 @@ audience.n:
 			52 music
 			52 one
 			48 audienc
+		Nearby stems:
+			75 the
+			30 ,
+			25 .
+			22 an
+			18 to
 	3:
 		Forms:
 			43 audience
@@ -947,6 +1482,12 @@ audience.n:
 			32 sport
 			27 audienc
 			25 music
+		Nearby stems:
+			18 .
+			11 the
+			9 in
+			8 ,
+			8 as
 	4:
 		Forms:
 			8 audience
@@ -956,6 +1497,12 @@ audience.n:
 			11 solicitor
 			8 govern
 			8 societi
+		Nearby stems:
+			8 of
+			4 in
+			4 the
+			2 higher
+			1 case
 party.n:
 	0:
 		Forms:
@@ -967,6 +1514,12 @@ party.n:
 			6 one
 			5 would
 			5 say
+		Nearby stems:
+			8 the
+			6 .
+			3 and
+			3 a
+			2 one
 	1:
 		Forms:
 			31 party
@@ -977,6 +1530,12 @@ party.n:
 			24 pup
 			24 parti
 			15 puppi
+		Nearby stems:
+			12 the
+			11 ,
+			10 .
+			9 a
+			7 and
 	2:
 		Forms:
 			14 party
@@ -987,6 +1546,12 @@ party.n:
 			5 girl
 			5 ask
 			5 man
+		Nearby stems:
+			9 the
+			6 ,
+			6 .
+			3 a
+			2 in
 	3:
 		Forms:
 			143 party
@@ -997,6 +1562,12 @@ party.n:
 			131 labour
 			82 mr
 			66 confer
+		Nearby stems:
+			97 the
+			28 ,
+			22 a
+			21 to
+			18 .
 	4:
 		Forms:
 			14 party
@@ -1007,6 +1578,12 @@ party.n:
 			8 's
 			6 snow
 			5 four
+		Nearby stems:
+			6 the
+			4 to
+			4 of
+			2 and
+			2 ,
 	5:
 		Forms:
 			11 parties
@@ -1017,6 +1594,12 @@ party.n:
 			7 compani
 			6 one
 			6 state
+		Nearby stems:
+			4 be
+			4 the
+			3 ,
+			3 interest
+			3 both
 remain.v:
 	0:
 		Forms:
@@ -1028,6 +1611,12 @@ remain.v:
 			1 pleas
 			1 heart
 			1 art
+		Nearby stems:
+			2 .
+			1 wa
+			1 i
+			1 it
+			1 one
 	1:
 		Forms:
 			40 remains
@@ -1040,6 +1629,12 @@ remain.v:
 			41 one
 			36 cathol
 			29 work
+		Nearby stems:
+			28 .
+			23 the
+			21 and
+			18 ,
+			16 a
 	2:
 		Forms:
 			6 remains
@@ -1052,6 +1647,12 @@ remain.v:
 			9 releas
 			8 's
 			7 sinc
+		Nearby stems:
+			11 in
+			5 prison
+			5 the
+			3 conscienc
+			3 ,
 	3:
 		Forms:
 			2 remains
@@ -1062,6 +1663,12 @@ remain.v:
 			3 pub
 			3 build
 			2 chill
+		Nearby stems:
+			2 to
+			2 the
+			1 chapter
+			1 on
+			1 do
 disc.n:
 	0:
 		Forms:
@@ -1073,6 +1680,12 @@ disc.n:
 			5 one
 			4 requir
 			3 provid
+		Nearby stems:
+			5 the
+			3 .
+			1 qualiti
+			1 ,
+			1 bring
 	1:
 		Forms:
 			32 discs
@@ -1083,6 +1696,12 @@ disc.n:
 			23 one
 			18 's
 			18 power
+		Nearby stems:
+			27 the
+			13 .
+			9 or
+			7 ,
+			7 and
 	2:
 		Forms:
 			50 disc
@@ -1093,6 +1712,12 @@ disc.n:
 			69 's
 			35 first
 			32 one
+		Nearby stems:
+			19 the
+			15 ,
+			13 .
+			9 record
+			9 and
 	3:
 		Forms:
 			31 disc
@@ -1103,6 +1728,12 @@ disc.n:
 			32 comput
 			25 use
 			23 record
+		Nearby stems:
+			16 the
+			9 .
+			8 ,
+			8 a
+			7 in
 	4:
 		Forms:
 			23 disc
@@ -1113,6 +1744,12 @@ disc.n:
 			10 like
 			10 time
 			9 slip
+		Nearby stems:
+			16 the
+			9 ,
+			5 of
+			5 or
+			5 .
 appear.v:
 	0:
 		Forms:
@@ -1123,6 +1760,12 @@ appear.v:
 			1 dorothi
 			1 other.
 			1 coriad
+		Nearby stems:
+			2 .
+			1 coriad
+			1 could
+			1 had
+			1 long
 	1:
 		Forms:
 			34 appear
@@ -1135,6 +1778,12 @@ appear.v:
 			17 time
 			17 like
 			16 work
+		Nearby stems:
+			22 in
+			21 the
+			12 ,
+			12 and
+			10 on
 	2:
 		Forms:
 			78 appear
@@ -1147,6 +1796,12 @@ appear.v:
 			48 would
 			43 time
 			37 work
+		Nearby stems:
+			100 to
+			34 be
+			23 the
+			17 it
+			15 that
 	3:
 		Forms:
 			32 appeared
@@ -1159,6 +1814,12 @@ appear.v:
 			24 art
 			23 work
 			17 one
+		Nearby stems:
+			26 in
+			12 the
+			8 which
+			6 as
+			5 ,
 degree.n:
 	0:
 		Forms:
@@ -1169,6 +1830,11 @@ degree.n:
 			2 like
 			2 work
 			2 n't
+		Nearby stems:
+			1 of
+			1 the
+			1 wrath
+			1 .
 	1:
 		Forms:
 			150 degree
@@ -1179,6 +1845,12 @@ degree.n:
 			47 use
 			43 would
 			43 polit
+		Nearby stems:
+			113 of
+			38 a
+			36 the
+			27 ,
+			18 .
 	2:
 		Forms:
 			11 degree
@@ -1189,6 +1861,12 @@ degree.n:
 			9 's
 			8 unit
 			7 may
+		Nearby stems:
+			8 of
+			3 from
+			3 a
+			3 the
+			2 elit
 	4:
 		Forms:
 			46 degree
@@ -1199,6 +1877,12 @@ degree.n:
 			33 work
 			31 univers
 			30 studi
+		Nearby stems:
+			26 in
+			21 a
+			12 .
+			10 ,
+			8 the
 	5:
 		Forms:
 			3 degrees
@@ -1209,6 +1893,12 @@ degree.n:
 			3 modul
 			3 's
 			3 phase
+		Nearby stems:
+			2 of
+			2 in
+			1 ratio
+			1 coupl
+			1 modul
 	6:
 		Forms:
 			4 degree
@@ -1219,6 +1909,12 @@ degree.n:
 			4 temperatur
 			4 laser
 			4 snow
+		Nearby stems:
+			3 a
+			2 absolut
+			2 of
+			2 ,
+			2 zero
 	7:
 		Forms:
 			36 degree
@@ -1229,6 +1925,12 @@ degree.n:
 			16 polic
 			13 one
 			13 research
+		Nearby stems:
+			30 of
+			13 a
+			10 ,
+			9 the
+			7 .
 paper.n:
 	0:
 		Forms:
@@ -1240,6 +1942,12 @@ paper.n:
 			10 's
 			8 would
 			8 world
+		Nearby stems:
+			10 the
+			5 a
+			5 of
+			4 ,
+			2 and
 	1:
 		Forms:
 			6 paper
@@ -1250,6 +1958,12 @@ paper.n:
 			3 paper
 			3 littl
 			3 day
+		Nearby stems:
+			5 the
+			3 and
+			2 a
+			2 .
+			1 there
 	2:
 		Forms:
 			32 paper
@@ -1260,6 +1974,12 @@ paper.n:
 			13 work
 			13 one
 			13 wrote
+		Nearby stems:
+			19 the
+			16 and
+			12 ,
+			7 of
+			7 .
 	3:
 		Forms:
 			17 paper
@@ -1270,6 +1990,12 @@ paper.n:
 			14 would
 			14 polic
 			14 paper
+		Nearby stems:
+			7 the
+			6 and
+			4 by
+			4 discuss
+			3 research
 	4:
 		Forms:
 			30 paper
@@ -1280,6 +2006,12 @@ paper.n:
 			18 work
 			17 paper
 			16 would
+		Nearby stems:
+			19 the
+			9 a
+			8 ,
+			8 on
+			7 in
 	5:
 		Forms:
 			39 paper
@@ -1290,6 +2022,12 @@ paper.n:
 			28 paper
 			26 said
 			25 bia
+		Nearby stems:
+			24 the
+			14 .
+			9 ,
+			7 local
+			5 and
 	6:
 		Forms:
 			14 paper
@@ -1300,6 +2038,12 @@ paper.n:
 			8 sunday
 			7 press
 			6 newspap
+		Nearby stems:
+			8 the
+			5 ,
+			3 's
+			2 by
+			1 work
 	7:
 		Forms:
 			61 paper
@@ -1310,6 +2054,12 @@ paper.n:
 			25 use
 			17 print
 			16 one
+		Nearby stems:
+			16 the
+			14 .
+			12 ,
+			10 and
+			9 in
 shelter.n:
 	0:
 		Forms:
@@ -1320,6 +2070,12 @@ shelter.n:
 			1 slower
 			1 obviou
 			1 give
+		Nearby stems:
+			3 the
+			2 ?
+			1 and
+			1 a
+			1 onli
 	1:
 		Forms:
 			62 shelter
@@ -1330,6 +2086,12 @@ shelter.n:
 			24 shelter
 			21 could
 			20 would
+		Nearby stems:
+			35 the
+			19 a
+			17 ,
+			15 and
+			12 in
 	2:
 		Forms:
 			58 shelter
@@ -1340,6 +2102,12 @@ shelter.n:
 			18 new
 			18 hous
 			18 plant
+		Nearby stems:
+			29 the
+			14 ,
+			11 of
+			11 and
+			8 for
 	3:
 		Forms:
 			1 shelters
@@ -1349,6 +2117,11 @@ shelter.n:
 			2 go
 			2 quit
 			2 behind
+		Nearby stems:
+			1 so
+			1 at
+			1 deep
+			1 that
 	4:
 		Forms:
 			77 shelter
@@ -1359,6 +2132,12 @@ shelter.n:
 			22 one
 			21 could
 			18 would
+		Nearby stems:
+			45 the
+			28 of
+			15 ,
+			13 a
+			12 and
 talk.v:
 	0:
 		Forms:
@@ -1369,6 +2148,11 @@ talk.v:
 			1 acknowledg
 			1 arriv
 			1 rank
+		Nearby stems:
+			1 of
+			1 from
+			1 are
+			1 escap
 	1:
 		Forms:
 			69 talk
@@ -1381,6 +2165,12 @@ talk.v:
 			36 time
 			35 one
 			32 peopl
+		Nearby stems:
+			81 to
+			44 about
+			24 ,
+			18 and
+			16 .
 	2:
 		Forms:
 			3 talked
@@ -1391,6 +2181,12 @@ talk.v:
 			3 would
 			3 adjac
 			3 's
+		Nearby stems:
+			2 be
+			2 about
+			2 as
+			1 and
+			1 still
 	3:
 		Forms:
 			1 talks
@@ -1402,6 +2198,12 @@ talk.v:
 			2 luci
 			2 england
 			2 never
+		Nearby stems:
+			3 ,
+			1 and
+			1 onli
+			1 we
+			1 stop
 	6:
 		Forms:
 			10 talking
@@ -1413,6 +2215,12 @@ talk.v:
 			7 like
 			6 someth
 			6 time
+		Nearby stems:
+			7 .
+			5 ,
+			3 and
+			3 in
+			3 to
 	7:
 		Forms:
 			2 talk
@@ -1422,6 +2230,12 @@ talk.v:
 			2 apartheid
 			2 english
 			1 anc
+		Nearby stems:
+			1 we
+			1 ,
+			1 same
+			1 to
+			1 hindi
 	8:
 		Forms:
 			2 talked
@@ -1432,6 +2246,12 @@ talk.v:
 			3 shop
 			3 soon
 			3 artist
+		Nearby stems:
+			2 to
+			1 shop
+			1 anyth
+			1 over
+			1 ,
 	9:
 		Forms:
 			1 talk
@@ -1441,6 +2261,11 @@ talk.v:
 			2 eat
 			1 quit
 			1 coupl
+		Nearby stems:
+			1 i
+			1 of
+			1 him
+			1 out
 climb.v:
 	0:
 		Forms:
@@ -1452,6 +2277,12 @@ climb.v:
 			3 coast
 			3 west
 			3 1988
+		Nearby stems:
+			2 qualiti
+			2 the
+			1 birkett
+			1 shap
+			1 castaway
 	1:
 		Forms:
 			23 climbed
@@ -1464,6 +2295,12 @@ climb.v:
 			21 time
 			20 one
 			14 cloud
+		Nearby stems:
+			25 the
+			20 to
+			14 ,
+			9 of
+			7 out
 	2:
 		Forms:
 			4 climbing
@@ -1474,6 +2311,12 @@ climb.v:
 			6 glider
 			4 angl
 			4 field
+		Nearby stems:
+			4 the
+			3 angl
+			1 and
+			1 stair
+			1 for
 	3:
 		Forms:
 			4 climbing
@@ -1483,6 +2326,12 @@ climb.v:
 			3 flower
 			3 shoot
 			2 fragrant
+		Nearby stems:
+			4 rose
+			1 feed
+			1 and
+			1 somewher
+			1 on
 	4:
 		Forms:
 			2 climb
@@ -1493,6 +2342,12 @@ climb.v:
 			3 like
 			3 year
 			3 market
+		Nearby stems:
+			2 to
+			1 will
+			1 slowli
+			1 bottom
+			1 of
 	5:
 		Forms:
 			21 climbed
@@ -1505,6 +2360,12 @@ climb.v:
 			20 climb
 			17 one
 			14 would
+		Nearby stems:
+			33 the
+			14 to
+			9 ,
+			7 stair
+			6 .
 organization.n:
 	2:
 		Forms:
@@ -1515,6 +2376,11 @@ organization.n:
 			2 campaign
 			2 craig
 			2 seat
+		Nearby stems:
+			1 east
+			1 belfast
+			1 littl
+			1 in
 	4:
 		Forms:
 			1 organization
@@ -1524,6 +2390,11 @@ organization.n:
 			2 health
 			2 could
 			2 manag
+		Nearby stems:
+			1 and
+			1 .
+			1 by
+			1 manag
 	5:
 		Forms:
 			18 organization
@@ -1533,6 +2404,12 @@ organization.n:
 			14 term
 			11 idea
 			10 gener
+		Nearby stems:
+			9 the
+			7 of
+			4 and
+			3 .
+			2 hierarch
 	6:
 		Forms:
 			46 organizations
@@ -1543,6 +2420,12 @@ organization.n:
 			32 one
 			28 unionist
 			27 green
+		Nearby stems:
+			27 the
+			16 ,
+			16 .
+			9 and
+			7 to
 	7:
 		Forms:
 			7 organization
@@ -1553,6 +2436,12 @@ organization.n:
 			8 's
 			7 muhammad
 			6 prison
+		Nearby stems:
+			4 the
+			2 and
+			2 set
+			2 ,
+			2 .
 arm.n:
 	0:
 		Forms:
@@ -1564,6 +2453,12 @@ arm.n:
 			4 hop
 			3 show
 			3 labour
+		Nearby stems:
+			4 the
+			2 ani
+			1 hattersley
+			1 roy
+			1 through
 	2:
 		Forms:
 			22 arms
@@ -1573,6 +2468,12 @@ arm.n:
 			8 use
 			8 suppli
 			7 govern
+		Nearby stems:
+			6 to
+			5 in
+			5 .
+			4 and
+			3 from
 	3:
 		Forms:
 			3 arm
@@ -1582,6 +2483,12 @@ arm.n:
 			3 's
 			2 perch
 			2 move
+		Nearby stems:
+			2 the
+			1 and
+			1 wa
+			1 of
+			1 it
 	4:
 		Forms:
 			5 arm
@@ -1592,6 +2499,12 @@ arm.n:
 			5 comput
 			5 's
 			4 seriou
+		Nearby stems:
+			4 the
+			3 of
+			1 and
+			1 some
+			1 one
 	5:
 		Forms:
 			137 arms
@@ -1602,6 +2515,12 @@ arm.n:
 			62 danc
 			56 one
 			55 back
+		Nearby stems:
+			65 the
+			54 ,
+			46 and
+			44 .
+			42 hi
 	6:
 		Forms:
 			14 arm
@@ -1612,6 +2531,12 @@ arm.n:
 			12 year
 			10 compani
 			10 one
+		Nearby stems:
+			13 of
+			5 ,
+			5 the
+			2 execut
+			2 an
 expect.v:
 	0:
 		Forms:
@@ -1622,6 +2547,11 @@ expect.v:
 			1 one
 			1 disappear
 			1 n't
+		Nearby stems:
+			1 we
+			1 .
+			1 ,
+			1 sergeant
 	1:
 		Forms:
 			58 expected
@@ -1634,6 +2564,12 @@ expect.v:
 			35 year
 			34 would
 			29 said
+		Nearby stems:
+			75 to
+			18 be
+			18 the
+			16 .
+			14 is
 	2:
 		Forms:
 			26 expect
@@ -1646,6 +2582,12 @@ expect.v:
 			20 one
 			15 would
 			15 n't
+		Nearby stems:
+			28 to
+			17 be
+			10 the
+			6 are
+			6 i
 watch.v:
 	1:
 		Forms:
@@ -1658,6 +2600,12 @@ watch.v:
 			4 top
 			4 n't
 			4 rover
+		Nearby stems:
+			4 as
+			4 ,
+			4 she
+			3 .
+			3 to
 	2:
 		Forms:
 			1 watched
@@ -1667,6 +2615,11 @@ watch.v:
 			2 's
 			1 give
 			1 straw
+		Nearby stems:
+			1 cameron
+			1 the
+			1 effect
+			1 for
 	4:
 		Forms:
 			7 watch
@@ -1676,6 +2629,12 @@ watch.v:
 			3 polici
 			3 wast
 			3 like
+		Nearby stems:
+			5 for
+			5 out
+			4 to
+			2 and
+			2 .
 	5:
 		Forms:
 			32 watched
@@ -1688,6 +2647,12 @@ watch.v:
 			18 even
 			17 like
 			15 look
+		Nearby stems:
+			27 the
+			15 and
+			13 to
+			11 ,
+			8 i
 	6:
 		Forms:
 			2 watched
@@ -1698,6 +2663,12 @@ watch.v:
 			3 god
 			3 soviet
 			2 salim
+		Nearby stems:
+			2 over
+			2 by
+			2 are
+			1 pound
+			1 god
 	7:
 		Forms:
 			3 watching
@@ -1707,6 +2678,12 @@ watch.v:
 			2 may
 			2 nation
 			2 devon
+		Nearby stems:
+			2 .
+			1 telli
+			1 tv
+			1 is
+			1 there
 rule.v:
 	1:
 		Forms:
@@ -1719,6 +2696,12 @@ rule.v:
 			13 mr
 			13 year
 			13 parti
+		Nearby stems:
+			11 the
+			5 .
+			5 by
+			3 -
+			3 to
 	4:
 		Forms:
 			22 ruled
@@ -1731,6 +2714,12 @@ rule.v:
 			30 's
 			21 said
 			17 right
+		Nearby stems:
+			13 that
+			10 the
+			6 ,
+			5 court
+			5 wa
 	5:
 		Forms:
 			2 rules
@@ -1743,6 +2732,12 @@ rule.v:
 			3 space
 			3 use
 			3 leonard
+		Nearby stems:
+			2 and
+			2 ,
+			2 the
+			1 real
+			1 eclectic
 miss.v:
 	1:
 		Forms:
@@ -1756,6 +2751,12 @@ miss.v:
 			3 match
 			3 one
 			3 could
+		Nearby stems:
+			4 the
+			2 ,
+			1 bayern
+			1 's
+			1 target
 	2:
 		Forms:
 			7 missed
@@ -1768,6 +2769,12 @@ miss.v:
 			7 point
 			6 one
 			6 like
+		Nearby stems:
+			7 the
+			6 point
+			4 .
+			3 ,
+			2 someth
 	3:
 		Forms:
 			6 missed
@@ -1779,6 +2786,12 @@ miss.v:
 			6 cup
 			6 match
 			5 injuri
+		Nearby stems:
+			4 ,
+			4 's
+			2 england
+			1 and
+			1 week
 	4:
 		Forms:
 			9 missed
@@ -1790,6 +2803,12 @@ miss.v:
 			6 second
 			5 gener
 			5 noriega
+		Nearby stems:
+			6 the
+			4 a
+			3 opportun
+			3 out
+			3 ,
 	5:
 		Forms:
 			1 miss
@@ -1800,6 +2819,12 @@ miss.v:
 			3 doctor
 			2 everi
 			2 wash
+		Nearby stems:
+			1 be
+			1 leer
+			1 scream
+			1 narrowli
+			1 to
 	6:
 		Forms:
 			8 miss
@@ -1811,6 +2836,12 @@ miss.v:
 			7 'll
 			6 miss
 			5 compani
+		Nearby stems:
+			6 you
+			5 .
+			4 ,
+			4 to
+			2 and
 wash.v:
 	0:
 		Forms:
@@ -1822,6 +2853,12 @@ wash.v:
 			2 'll
 			2 's
 			2 n't
+		Nearby stems:
+			2 .
+			1 then
+			1 we
+			1 'll
+			1 for
 	1:
 		Forms:
 			21 washed
@@ -1834,6 +2871,12 @@ wash.v:
 			13 go
 			13 said
 			13 n't
+		Nearby stems:
+			10 and
+			9 the
+			7 ,
+			5 to
+			5 you
 	2:
 		Forms:
 			1 washed
@@ -1843,6 +2886,11 @@ wash.v:
 			2 rita
 			2 mother
 			2 bob
+		Nearby stems:
+			1 their
+			1 mouth
+			1 have
+			1 out
 	3:
 		Forms:
 			1 wash
@@ -1853,6 +2901,12 @@ wash.v:
 			3 water
 			2 less
 			2 easterli
+		Nearby stems:
+			1 on
+			1 them
+			1 from
+			1 solid
+			1 ashor
 	4:
 		Forms:
 			2 washed
@@ -1863,6 +2917,12 @@ wash.v:
 			2 colberg
 			2 like
 			2 small
+		Nearby stems:
+			2 away
+			2 .
+			1 all
+			1 -
+			1 ,
 	6:
 		Forms:
 			1 wash
@@ -1872,6 +2932,11 @@ wash.v:
 			2 govern
 			1 affair
 			1 tiananmen
+		Nearby stems:
+			1 to
+			1 hand
+			1 in
+			1 their
 	7:
 		Forms:
 			4 washing
@@ -1883,6 +2948,12 @@ wash.v:
 			6 went
 			5 would
 			5 n't
+		Nearby stems:
+			5 ,
+			4 and
+			3 to
+			2 himself
+			2 after
 	8:
 		Forms:
 			1 wash
@@ -1892,6 +2963,11 @@ wash.v:
 			1 golden
 			1 restlessli
 			1 fingernail
+		Nearby stems:
+			1 to
+			1 ,
+			1 her
+			1 udder
 	10:
 		Forms:
 			5 washed
@@ -1901,6 +2977,12 @@ wash.v:
 			3 nut
 			3 across
 			3 one
+		Nearby stems:
+			4 down
+			4 with
+			2 a
+			1 be
+			1 all
 	12:
 		Forms:
 			1 washed
@@ -1911,6 +2993,12 @@ wash.v:
 			2 feet
 			2 channel
 			2 firm
+		Nearby stems:
+			2 over
+			1 both
+			1 for
+			1 wa
+			1 that
 add.v:
 	0:
 		Forms:
@@ -1921,6 +3009,12 @@ add.v:
 			2 rush
 			2 tabl
 			2 sat
+		Nearby stems:
+			2 i
+			2 ,
+			1 even
+			1 do
+			1 .
 	1:
 		Forms:
 			62 add
@@ -1933,6 +3027,12 @@ add.v:
 			43 one
 			39 beer
 			29 two
+		Nearby stems:
+			64 to
+			31 the
+			25 a
+			20 ,
+			19 and
 	2:
 		Forms:
 			1 adds
@@ -1942,6 +3042,11 @@ add.v:
 			2 common
 			2 around
 			1 tri
+		Nearby stems:
+			1 to
+			1 up
+			1 thi
+			1 .
 	3:
 		Forms:
 			53 added
@@ -1954,6 +3059,12 @@ add.v:
 			45 would
 			27 one
 			26 mr
+		Nearby stems:
+			34 ,
+			32 he
+			26 :
+			21 that
+			18 the
 	4:
 		Forms:
 			3 added
@@ -1964,6 +3075,12 @@ add.v:
 			4 money
 			4 benefit
 			4 price
+		Nearby stems:
+			3 to
+			1 extra
+			1 index
+			1 togeth
+			1 be
 	5:
 		Forms:
 			7 add
@@ -1974,6 +3091,12 @@ add.v:
 			7 go
 			6 could
 			5 up.
+		Nearby stems:
+			6 up
+			6 to
+			4 up.
+			3 a
+			2 thi
 	6:
 		Forms:
 			21 add
@@ -1986,6 +3109,12 @@ add.v:
 			15 light
 			13 may
 			12 make
+		Nearby stems:
+			40 to
+			20 the
+			8 and
+			6 ,
+			5 extra
 source.n:
 	1:
 		Forms:
@@ -1997,6 +3126,12 @@ source.n:
 			4 cathol
 			3 roman
 			3 system
+		Nearby stems:
+			2 of
+			2 ,
+			2 the
+			1 and
+			1 major
 	2:
 		Forms:
 			5 source
@@ -2007,6 +3142,12 @@ source.n:
 			5 read
 			5 form
 			4 religi
+		Nearby stems:
+			6 the
+			4 of
+			2 for
+			1 a
+			1 one
 	3:
 		Forms:
 			4 sources
@@ -2017,6 +3158,12 @@ source.n:
 			5 charg
 			4 art
 			4 's
+		Nearby stems:
+			3 of
+			2 inform
+			1 be
+			1 all
+			1 may
 	4:
 		Forms:
 			7 sources
@@ -2027,6 +3174,12 @@ source.n:
 			9 hercul
 			8 work
 			8 christi
+		Nearby stems:
+			6 of
+			6 the
+			2 for
+			2 -
+			2 ,
 	5:
 		Forms:
 			27 source
@@ -2037,6 +3190,12 @@ source.n:
 			10 use
 			9 school
 			9 train
+		Nearby stems:
+			23 of
+			9 .
+			9 the
+			7 a
+			4 for
 	6:
 		Forms:
 			5 source
@@ -2046,6 +3205,12 @@ source.n:
 			5 read
 			4 rowan
 			3 wood
+		Nearby stems:
+			4 of
+			3 the
+			1 a
+			1 ancient
+			1 for
 	7:
 		Forms:
 			2 source
@@ -2056,12 +3221,23 @@ source.n:
 			4 inform
 			3 investig
 			3 mani
+		Nearby stems:
+			1 wa
+			1 possibl
+			1 of
+			1 reliabl
+			1 .
 treat.v:
 	0:
 		Forms:
 			1 treated
 		Related stems:
 			1 caus
+		Nearby stems:
+			1 what
+			1 it
+			1 ?
+			1 can
 	1:
 		Forms:
 			17 treated
@@ -2074,6 +3250,12 @@ treat.v:
 			12 would
 			12 way
 			11 like
+		Nearby stems:
+			9 a
+			7 as
+			7 to
+			6 with
+			6 the
 	2:
 		Forms:
 			22 treated
@@ -2086,6 +3268,12 @@ treat.v:
 			12 gener
 			12 first
 			12 one
+		Nearby stems:
+			19 as
+			9 the
+			5 ,
+			5 to
+			5 be
 	3:
 		Forms:
 			2 treated
@@ -2096,6 +3284,12 @@ treat.v:
 			4 term
 			3 candid
 			3 way
+		Nearby stems:
+			2 is
+			1 a
+			1 histor
+			1 to
+			1 as
 	4:
 		Forms:
 			3 treat
@@ -2106,6 +3300,12 @@ treat.v:
 			3 cancer
 			3 doctor
 			3 take
+		Nearby stems:
+			2 it
+			2 to
+			1 and
+			1 then
+			1 them
 	5:
 		Forms:
 			3 treated
@@ -2116,6 +3316,12 @@ treat.v:
 			4 health
 			4 bma
 			4 take
+		Nearby stems:
+			2 .
+			1 be
+			1 said
+			1 patient
+			1 wa
 	6:
 		Forms:
 			2 treated
@@ -2126,6 +3332,12 @@ treat.v:
 			3 win
 			3 new
 			3 issu
+		Nearby stems:
+			4 to
+			2 a
+			1 be
+			1 themselv
+			1 wa
 	7:
 		Forms:
 			15 treated
@@ -2137,6 +3349,12 @@ treat.v:
 			11 paint
 			8 preserv
 			7 coat
+		Nearby stems:
+			7 with
+			6 a
+			4 ,
+			4 be
+			3 to
 	8:
 		Forms:
 			2 treated
@@ -2147,6 +3365,12 @@ treat.v:
 			4 book
 			3 far
 			3 would
+		Nearby stems:
+			3 in
+			1 a
+			1 unlov
+			1 also
+			1 ,
 ask.v:
 	0:
 		Forms:
@@ -2158,6 +3382,12 @@ ask.v:
 			10 's
 			7 n't
 			6 think
+		Nearby stems:
+			19 .
+			15 i
+			3 menzi
+			3 what
+			3 no
 	1:
 		Forms:
 			50 asked
@@ -2170,6 +3400,12 @@ ask.v:
 			29 said
 			23 would
 			21 time
+		Nearby stems:
+			33 .
+			17 ?
+			16 me
+			15 ,
+			12 i
 	2:
 		Forms:
 			23 asked
@@ -2182,6 +3418,12 @@ ask.v:
 			17 work
 			12 may
 			11 way
+		Nearby stems:
+			38 to
+			8 your
+			8 the
+			7 be
+			7 you
 	3:
 		Forms:
 			15 asked
@@ -2194,6 +3436,12 @@ ask.v:
 			13 's
 			12 may
 			11 time
+		Nearby stems:
+			20 to
+			8 be
+			5 the
+			4 are
+			4 you
 	4:
 		Forms:
 			8 asked
@@ -2206,6 +3454,12 @@ ask.v:
 			7 said
 			6 jay
 			5 friend
+		Nearby stems:
+			5 to
+			3 had
+			2 over
+			2 haue
+			2 for
 	5:
 		Forms:
 			50 asked
@@ -2217,6 +3471,12 @@ ask.v:
 			20 n't
 			19 polic
 			19 know
+		Nearby stems:
+			34 .
+			22 ?
+			19 ,
+			13 i
+			12 to
 	6:
 		Forms:
 			16 asked
@@ -2229,6 +3489,12 @@ ask.v:
 			13 help
 			13 's
 			9 time
+		Nearby stems:
+			18 for
+			8 to
+			6 and
+			5 the
+			4 .
 activate.v:
 	0:
 		Forms:
@@ -2240,6 +3506,12 @@ activate.v:
 			3 display
 			3 's
 			2 like
+		Nearby stems:
+			2 be
+			2 it
+			2 .
+			1 function
+			1 goddess
 	1:
 		Forms:
 			101 activated
@@ -2252,6 +3524,12 @@ activate.v:
 			63 one
 			62 cell
 			61 system
+		Nearby stems:
+			59 the
+			25 .
+			24 by
+			24 of
+			24 in
 	2:
 		Forms:
 			29 activated
@@ -2264,6 +3542,12 @@ activate.v:
 			33 receptor
 			21 nmda
 			21 channel
+		Nearby stems:
+			12 by
+			10 the
+			7 -
+			7 of
+			7 is
 	3:
 		Forms:
 			22 activated
@@ -2276,6 +3560,12 @@ activate.v:
 			16 associ
 			14 represent
 			13 differ
+		Nearby stems:
+			11 the
+			5 -
+			5 to
+			4 ,
+			4 .
 	4:
 		Forms:
 			1 activated
@@ -2285,6 +3575,11 @@ activate.v:
 			2 phase
 			2 light
 			2 scatter
+		Nearby stems:
+			1 )
+			1 (
+			1 2
+			1 are
 hot.a:
 	0:
 		Forms:
@@ -2295,6 +3590,12 @@ hot.a:
 			2 art
 			2 mani
 			2 neither
+		Nearby stems:
+			3 .
+			2 cold
+			1 wide
+			1 wa
+			1 wert
 	1:
 		Forms:
 			60 hot
@@ -2304,6 +3605,12 @@ hot.a:
 			17 one
 			15 day
 			15 like
+		Nearby stems:
+			15 a
+			14 .
+			12 ,
+			10 and
+			10 the
 	2:
 		Forms:
 			7 hot
@@ -2313,6 +3620,12 @@ hot.a:
 			3 templ
 			3 could
 			3 ritual
+		Nearby stems:
+			4 -
+			2 and
+			2 .
+			2 of
+			1 am
 	3:
 		Forms:
 			2 hot
@@ -2322,6 +3635,12 @@ hot.a:
 			3 british
 			2 go
 			2 fate
+		Nearby stems:
+			1 a
+			1 rang
+			1 set
+			1 dave
+			1 typewrit
 	6:
 		Forms:
 			1 hot
@@ -2331,6 +3650,11 @@ hot.a:
 			2 polic
 			2 life
 			2 la
+		Nearby stems:
+			1 .
+			1 pursuit
+			1 but
+			1 in
 	7:
 		Forms:
 			2 hot
@@ -2340,6 +3664,12 @@ hot.a:
 			3 've
 			3 got
 			3 look
+		Nearby stems:
+			1 we
+			1 off
+			1 slight
+			1 .
+			1 the
 	8:
 		Forms:
 			1 hot
@@ -2349,6 +3679,11 @@ hot.a:
 			1 great
 			1 ahead
 			1 captur
+		Nearby stems:
+			1 busi
+			1 so
+			1 for
+			1 .
 	9:
 		Forms:
 			1 hot
@@ -2358,6 +3693,11 @@ hot.a:
 			2 manufactur
 			2 labour
 			1 oper
+		Nearby stems:
+			1 money
+			1 casino
+			1 by
+			1 ,
 	13:
 		Forms:
 			4 hot
@@ -2367,6 +3707,12 @@ hot.a:
 			5 film
 			3 said
 			3 red
+		Nearby stems:
+			4 ,
+			2 favourit
+			2 -
+			2 as
+			1 properti
 	14:
 		Forms:
 			6 hot
@@ -2376,6 +3722,12 @@ hot.a:
 			3 oliv
 			3 sweet
 			3 spanish
+		Nearby stems:
+			5 ,
+			3 -
+			2 a
+			2 the
+			1 and
 sort.n:
 	0:
 		Forms:
@@ -2386,6 +3738,12 @@ sort.n:
 			4 'd
 			3 apron
 			3 cake
+		Nearby stems:
+			1 cut
+			1 that
+			1 of
+			1 is
+			1 arriv
 	1:
 		Forms:
 			53 sort
@@ -2396,6 +3754,12 @@ sort.n:
 			19 would
 			19 n't
 			18 one
+		Nearby stems:
+			55 of
+			26 a
+			8 some
+			8 thing
+			5 ,
 	2:
 		Forms:
 			123 sort
@@ -2406,6 +3770,12 @@ sort.n:
 			51 art
 			48 one
 			45 would
+		Nearby stems:
+			122 of
+			31 the
+			18 thing
+			17 .
+			17 thi
 	3:
 		Forms:
 			12 sort
@@ -2416,6 +3786,12 @@ sort.n:
 			7 price
 			7 mani
 			6 time
+		Nearby stems:
+			12 of
+			5 the
+			2 some
+			2 .
+			2 to
 	4:
 		Forms:
 			2 sort
@@ -2426,6 +3802,12 @@ sort.n:
 			3 coach
 			3 tri
 			3 job
+		Nearby stems:
+			3 out
+			2 ,
+			2 the
+			1 and
+			1 option
 receive.v:
 	1:
 		Forms:
@@ -2439,6 +3821,12 @@ receive.v:
 			24 letter
 			24 's
 			21 group
+		Nearby stems:
+			13 a
+			9 the
+			6 to
+			6 will
+			5 from
 	2:
 		Forms:
 			1 receive
@@ -2448,6 +3836,11 @@ receive.v:
 			2 employ
 			2 manag
 			2 drama
+		Nearby stems:
+			1 their
+			1 ;
+			1 diploma
+			1 they
 	4:
 		Forms:
 			2 received
@@ -2458,6 +3851,12 @@ receive.v:
 			2 corpu
 			2 bomb
 			2 find
+		Nearby stems:
+			2 the
+			1 case
+			1 on
+			1 now
+			1 that
 	5:
 		Forms:
 			1 receive
@@ -2467,6 +3866,11 @@ receive.v:
 			2 local
 			2 last
 			2 inform
+		Nearby stems:
+			1 to
+			1 about
+			1 ani
+			1 inform
 interest.n:
 	1:
 		Forms:
@@ -2478,6 +3882,12 @@ interest.n:
 			4 's
 			4 one
 			4 friend
+		Nearby stems:
+			3 and
+			3 ,
+			2 as
+			2 of
+			1 set
 	2:
 		Forms:
 			31 interests
@@ -2488,6 +3898,12 @@ interest.n:
 			26 would
 			24 parti
 			21 public
+		Nearby stems:
+			38 the
+			28 of
+			8 in
+			6 to
+			6 public
 	3:
 		Forms:
 			28 interest
@@ -2497,6 +3913,12 @@ interest.n:
 			19 histor
 			16 would
 			12 use
+		Nearby stems:
+			15 of
+			6 to
+			5 ,
+			4 in
+			4 be
 	4:
 		Forms:
 			75 interest
@@ -2507,6 +3929,12 @@ interest.n:
 			26 one
 			21 new
 			18 said
+		Nearby stems:
+			52 in
+			16 the
+			12 ,
+			12 .
+			12 and
 	5:
 		Forms:
 			2 interests
@@ -2517,6 +3945,12 @@ interest.n:
 			6 allianc
 			5 protest
 			5 loyalist
+		Nearby stems:
+			1 a
+			1 consolid
+			1 capit
+			1 genuin
+			1 and
 	6:
 		Forms:
 			9 interest
@@ -2526,6 +3960,12 @@ interest.n:
 			6 pay
 			6 make
 			6 's
+		Nearby stems:
+			4 on
+			2 and
+			2 societi
+			2 tax
+			2 ,
 	7:
 		Forms:
 			12 interests
@@ -2536,6 +3976,12 @@ interest.n:
 			13 board
 			11 ferranti
 			10 group
+		Nearby stems:
+			4 in
+			4 ,
+			3 .
+			3 the
+			2 and
 solid.a:
 	0:
 		Forms:
@@ -2546,6 +3992,12 @@ solid.a:
 			3 like
 			3 rain
 			2 go
+		Nearby stems:
+			3 a
+			2 ,
+			2 .
+			1 and
+			1 echo
 	1:
 		Forms:
 			2 solid
@@ -2555,6 +4007,12 @@ solid.a:
 			2 violenc
 			2 protect
 			2 explain
+		Nearby stems:
+			1 for
+			1 give
+			1 food
+			1 ani
+			1 four
 	2:
 		Forms:
 			5 solid
@@ -2564,6 +4022,12 @@ solid.a:
 			5 cabl
 			5 tabl
 			5 insul
+		Nearby stems:
+			3 a
+			2 wall
+			2 wood
+			1 dine
+			1 though
 	4:
 		Forms:
 			1 solid
@@ -2573,6 +4037,11 @@ solid.a:
 			2 damp
 			1 clog
 			1 altitud
+		Nearby stems:
+			1 frozen
+			1 !
+			1 's
+			1 it
 	5:
 		Forms:
 			16 solid
@@ -2582,6 +4051,12 @@ solid.a:
 			6 pound
 			5 school
 			5 even
+		Nearby stems:
+			5 a
+			3 and
+			3 ,
+			3 .
+			3 with
 	6:
 		Forms:
 			8 solid
@@ -2591,6 +4066,12 @@ solid.a:
 			6 wall
 			6 make
 			5 light
+		Nearby stems:
+			5 the
+			4 to
+			2 right
+			2 wall
+			2 ,
 	7:
 		Forms:
 			3 solid
@@ -2600,6 +4081,12 @@ solid.a:
 			5 use
 			4 wood
 			3 realis
+		Nearby stems:
+			2 and
+			2 of
+			2 wood
+			1 both
+			1 like
 	8:
 		Forms:
 			4 solid
@@ -2609,6 +4096,12 @@ solid.a:
 			3 iee
 			3 work
 			3 purdi
+		Nearby stems:
+			2 ,
+			1 a
+			1 on
+			1 kind
+			1 wa
 	10:
 		Forms:
 			1 solid
@@ -2618,6 +4111,11 @@ solid.a:
 			2 replac
 			2 drawer
 			2 pine
+		Nearby stems:
+			1 cherri
+			1 price
+			1 attract
+			1 .
 	11:
 		Forms:
 			11 solid
@@ -2627,6 +4125,12 @@ solid.a:
 			5 school
 			5 new
 			5 indi
+		Nearby stems:
+			3 the
+			2 base
+			2 a
+			1 and
+			1 wall
 	12:
 		Forms:
 			4 solid
@@ -2636,6 +4140,12 @@ solid.a:
 			2 jay
 			2 young
 			2 like
+		Nearby stems:
+			2 the
+			1 and
+			1 a
+			1 sunshin
+			1 forc
 	13:
 		Forms:
 			3 solid
@@ -2645,6 +4155,12 @@ solid.a:
 			2 opposit
 			2 chancellor
 			2 wave
+		Nearby stems:
+			1 a
+			1 whose
+			1 of
+			1 support
+			1 social
 difficulty.n:
 	0:
 		Forms:
@@ -2655,6 +4171,11 @@ difficulty.n:
 			1 art
 			1 restless
 			1 scratch
+		Nearby stems:
+			1 it
+			1 the
+			1 is
+			1 that
 	1:
 		Forms:
 			11 difficulty
@@ -2665,6 +4186,12 @@ difficulty.n:
 			5 sens
 			5 would
 			5 work
+		Nearby stems:
+			10 in
+			3 have
+			3 ,
+			3 the
+			2 had
 	2:
 		Forms:
 			5 difficulty
@@ -2674,6 +4201,12 @@ difficulty.n:
 			4 candid
 			4 sculptur
 			4 may
+		Nearby stems:
+			3 the
+			2 of
+			1 a
+			1 be
+			1 we
 	3:
 		Forms:
 			8 difficulties
@@ -2684,6 +4217,12 @@ difficulty.n:
 			7 would
 			7 say
 			7 object
+		Nearby stems:
+			5 is
+			4 ,
+			3 and
+			3 in
+			3 a
 	4:
 		Forms:
 			8 difficulties
@@ -2694,6 +4233,12 @@ difficulty.n:
 			6 wing
 			6 wind
 			6 pull
+		Nearby stems:
+			5 the
+			3 ,
+			3 that
+			2 into
+			2 are
 image.n:
 	0:
 		Forms:
@@ -2705,6 +4250,12 @@ image.n:
 			4 's
 			4 ladder
 			3 aquatint
+		Nearby stems:
+			5 the
+			2 of
+			2 ?
+			1 differ
+			1 shadow
 	1:
 		Forms:
 			43 image
@@ -2715,6 +4266,12 @@ image.n:
 			36 use
 			32 pixel
 			31 's
+		Nearby stems:
+			16 bit
+			12 ,
+			12 file
+			10 .
+			10 and
 	2:
 		Forms:
 			1 image
@@ -2724,6 +4281,11 @@ image.n:
 			2 critic
 			2 use
 			2 far
+		Nearby stems:
+			1 hierarch
+			1 of
+			1 the
+			1 madonna
 	3:
 		Forms:
 			57 image
@@ -2734,6 +4296,12 @@ image.n:
 			31 new
 			30 mr
 			27 one
+		Nearby stems:
+			17 of
+			17 the
+			11 .
+			8 ,
+			7 new
 	4:
 		Forms:
 			11 image
@@ -2744,6 +4312,12 @@ image.n:
 			10 work
 			8 thing
 			8 mind
+		Nearby stems:
+			7 of
+			6 and
+			5 the
+			3 a
+			2 as
 	5:
 		Forms:
 			4 image
@@ -2753,6 +4327,12 @@ image.n:
 			4 post
 			4 's
 			3 critic
+		Nearby stems:
+			5 the
+			3 of
+			1 creation
+			1 divin
+			1 ,
 	6:
 		Forms:
 			2 image
@@ -2763,6 +4343,12 @@ image.n:
 			3 's
 			2 kite
 			2 theatr
+		Nearby stems:
+			1 and
+			1 metaphor
+			1 that
+			1 ondaatj
+			1 complex
 	7:
 		Forms:
 			1 image
@@ -2772,6 +4358,11 @@ image.n:
 			1 regret
 			1 stick
 			1 rank
+		Nearby stems:
+			1 of
+			1 the
+			1 spit
+			1 one
 write.v:
 	2:
 		Forms:
@@ -2785,6 +4376,12 @@ write.v:
 			17 artist
 			14 's
 			10 critic
+		Nearby stems:
+			9 about
+			5 the
+			3 ,
+			3 to
+			2 critic
 	3:
 		Forms:
 			4 write
@@ -2797,6 +4394,12 @@ write.v:
 			10 catalogu
 			9 pictur
 			8 and/or
+		Nearby stems:
+			4 in
+			4 a
+			3 ,
+			3 to
+			2 and
 	5:
 		Forms:
 			1 written
@@ -2806,6 +4409,11 @@ write.v:
 			3 shadow
 			3 like
 			3 along
+		Nearby stems:
+			1 sky
+			1 the
+			1 mast
+			1 upon
 	7:
 		Forms:
 			4 written
@@ -2815,6 +4423,12 @@ write.v:
 			4 well
 			3 ye
 			3 continu
+		Nearby stems:
+			2 well
+			1 and
+			1 about
+			1 's
+			1 for
 	8:
 		Forms:
 			11 write
@@ -2825,6 +4439,12 @@ write.v:
 			11 work
 			9 would
 			8 's
+		Nearby stems:
+			11 to
+			6 pleas
+			5 letter
+			4 :
+			4 the
 win.v:
 	0:
 		Forms:
@@ -2836,6 +4456,12 @@ win.v:
 			3 way
 			3 without
 			2 still
+		Nearby stems:
+			3 be
+			3 ,
+			3 the
+			1 and
+			1 made
 	1:
 		Forms:
 			10 win
@@ -2848,6 +4474,12 @@ win.v:
 			10 team
 			8 point
 			7 bout
+		Nearby stems:
+			8 the
+			7 .
+			6 to
+			3 have
+			2 and
 	3:
 		Forms:
 			6 win
@@ -2859,6 +4491,12 @@ win.v:
 			6 race
 			6 fido
 			5 second
+		Nearby stems:
+			5 the
+			3 to
+			3 of
+			2 race
+			2 thi
 	4:
 		Forms:
 			16 win
@@ -2871,6 +4509,12 @@ win.v:
 			19 one
 			18 year
 			14 win
+		Nearby stems:
+			13 a
+			10 to
+			8 the
+			6 prize
+			6 of
 	5:
 		Forms:
 			1 win
@@ -2880,6 +4524,11 @@ win.v:
 			2 leav
 			2 last
 			2 angolan
+		Nearby stems:
+			1 will
+			1 neto
+			1 's
+			1 .
 	6:
 		Forms:
 			1 win
@@ -2891,6 +4540,12 @@ win.v:
 			3 first
 			3 kelvin
 			2 thomson
+		Nearby stems:
+			3 ,
+			1 me
+			1 be
+			1 shall
+			1 of
 decide.v:
 	1:
 		Forms:
@@ -2903,6 +4558,12 @@ decide.v:
 			11 pound
 			10 canto
 			9 would
+		Nearby stems:
+			9 that
+			8 to
+			6 the
+			5 wa
+			4 ,
 	2:
 		Forms:
 			1 deciding
@@ -2912,6 +4573,11 @@ decide.v:
 			2 win
 			2 bout
 			2 may
+		Nearby stems:
+			1 the
+			1 victori
+			1 three/two
+			1 first
 	3:
 		Forms:
 			65 decided
@@ -2924,6 +4590,12 @@ decide.v:
 			29 n't
 			28 go
 			26 would
+		Nearby stems:
+			67 to
+			22 i
+			14 she
+			9 ,
+			9 on
 	4:
 		Forms:
 			3 decide
@@ -2935,6 +4607,12 @@ decide.v:
 			5 funer
 			5 religi
 			5 clergi
+		Nearby stems:
+			2 to
+			1 is
+			1 it
+			1 down
+			1 fieldnot
 simple.a:
 	2:
 		Forms:
@@ -2945,6 +4623,12 @@ simple.a:
 			7 work
 			6 critic
 			6 element
+		Nearby stems:
+			4 .
+			4 a
+			2 is
+			2 as
+			2 infinit
 	3:
 		Forms:
 			12 simple
@@ -2954,6 +4638,12 @@ simple.a:
 			7 art
 			7 's
 			6 flu
+		Nearby stems:
+			5 ,
+			3 to
+			2 as
+			2 use
+			2 .
 	5:
 		Forms:
 			8 simple
@@ -2963,6 +4653,12 @@ simple.a:
 			7 pub
 			6 mani
 			6 serv
+		Nearby stems:
+			5 a
+			4 ,
+			1 oper
+			1 beerhous
+			1 is
 	7:
 		Forms:
 			5 simple
@@ -2972,6 +4668,12 @@ simple.a:
 			4 one
 			4 's
 			3 protest
+		Nearby stems:
+			2 a
+			2 .
+			1 and
+			1 ,
+			1 paus
 note.v:
 	1:
 		Forms:
@@ -2984,6 +4686,12 @@ note.v:
 			13 also
 			12 school
 			12 first
+		Nearby stems:
+			26 that
+			21 the
+			15 to
+			14 ,
+			5 in
 	2:
 		Forms:
 			7 noted
@@ -2995,6 +4703,12 @@ note.v:
 			6 cathol
 			5 two
 			5 one
+		Nearby stems:
+			8 the
+			2 in
+			2 that
+			2 of
+			1 england
 	3:
 		Forms:
 			54 noted
@@ -3007,6 +4721,12 @@ note.v:
 			23 also
 			21 govern
 			21 use
+		Nearby stems:
+			26 ,
+			25 that
+			18 the
+			9 be
+			9 as
 different.a:
 	0:
 		Forms:
@@ -3017,6 +4737,12 @@ different.a:
 			3 photograph
 			2 ale
 			2 woman
+		Nearby stems:
+			2 .
+			1 a
+			1 tradit
+			1 what
+			1 wa
 	1:
 		Forms:
 			53 different
@@ -3026,6 +4752,12 @@ different.a:
 			25 one
 			18 art
 			15 time
+		Nearby stems:
+			16 .
+			15 of
+			12 ,
+			9 a
+			9 the
 	2:
 		Forms:
 			21 different
@@ -3035,6 +4767,12 @@ different.a:
 			14 work
 			14 art
 			10 exhibit
+		Nearby stems:
+			8 .
+			6 the
+			5 from
+			4 is
+			4 veri
 	3:
 		Forms:
 			4 different
@@ -3044,6 +4782,12 @@ different.a:
 			4 offer
 			4 work
 			4 write
+		Nearby stems:
+			4 .
+			2 a
+			1 quit
+			1 term
+			1 rout
 	4:
 		Forms:
 			10 different
@@ -3053,6 +4797,12 @@ different.a:
 			7 art
 			6 still
 			6 artist
+		Nearby stems:
+			3 ,
+			2 is
+			2 be
+			2 a
+			2 like
 	5:
 		Forms:
 			19 different
@@ -3062,6 +4812,12 @@ different.a:
 			10 experi
 			9 use
 			9 one
+		Nearby stems:
+			6 of
+			4 peopl
+			4 the
+			3 and
+			3 .
 hear.v:
 	0:
 		Forms:
@@ -3072,6 +4828,11 @@ hear.v:
 			1 harmoni
 			1 decay
 			1 youth
+		Nearby stems:
+			1 :
+			1 cannot
+			1 it
+			1 for
 	1:
 		Forms:
 			14 heard
@@ -3083,6 +4844,12 @@ hear.v:
 			11 's
 			10 nois
 			10 bell
+		Nearby stems:
+			11 the
+			5 .
+			4 i
+			4 n't
+			3 to
 	2:
 		Forms:
 			17 heard
@@ -3093,6 +4860,12 @@ hear.v:
 			11 one
 			11 say
 			11 said
+		Nearby stems:
+			7 i
+			7 of
+			6 've
+			5 ,
+			5 to
 	3:
 		Forms:
 			1 heard
@@ -3102,6 +4875,11 @@ hear.v:
 			1 announc
 			1 god
 			1 clearli
+		Nearby stems:
+			1 yourself
+			1 be
+			1 announc
+			1 .
 	4:
 		Forms:
 			1 heard
@@ -3112,6 +4890,12 @@ hear.v:
 			2 els
 			2 must
 			2 lieuten
+		Nearby stems:
+			1 be
+			1 excus
+			1 ani
+			1 to
+			1 deputi
 	6:
 		Forms:
 			2 heard
@@ -3122,6 +4906,12 @@ hear.v:
 			4 purchas
 			2 sector
 			2 queen
+		Nearby stems:
+			2 of
+			1 again
+			1 them
+			1 from
+			1 for
 mean.v:
 	0:
 		Forms:
@@ -3132,6 +4922,11 @@ mean.v:
 			2 infect
 			2 care
 			1 pleas
+		Nearby stems:
+			1 70
+			1 around
+			1 thi
+			1 that
 	1:
 		Forms:
 			1 meant
@@ -3142,6 +4937,12 @@ mean.v:
 			2 know
 			1 patron
 			1 jeff
+		Nearby stems:
+			1 wa
+			1 be
+			1 for
+			1 her
+			1 i
 	2:
 		Forms:
 			40 mean
@@ -3153,6 +4954,12 @@ mean.v:
 			16 go
 			16 n't
 			14 think
+		Nearby stems:
+			28 i
+			20 ,
+			17 you
+			8 it
+			6 the
 	3:
 		Forms:
 			2 mean
@@ -3164,6 +4971,12 @@ mean.v:
 			4 two
 			4 play
 			3 mean
+		Nearby stems:
+			2 ,
+			1 what
+			1 and
+			1 differ
+			1 word
 	4:
 		Forms:
 			4 meant
@@ -3173,6 +4986,12 @@ mean.v:
 			6 may
 			4 book
 			3 also
+		Nearby stems:
+			4 to
+			3 be
+			1 we
+			1 that
+			1 is
 	5:
 		Forms:
 			12 means
@@ -3184,6 +5003,12 @@ mean.v:
 			10 work
 			9 school
 			9 would
+		Nearby stems:
+			10 that
+			3 it
+			3 thi
+			2 are
+			2 have
 	7:
 		Forms:
 			1 mean
@@ -3193,6 +5018,11 @@ mean.v:
 			2 reason
 			2 organ
 			2 time
+		Nearby stems:
+			1 where
+			1 the
+			1 well
+			1 they
 eat.v:
 	0:
 		Forms:
@@ -3204,6 +5034,12 @@ eat.v:
 			3 heavi
 			3 make
 			3 late
+		Nearby stems:
+			1 !
+			1 be
+			1 them
+			1 shrub
+			1 rose
 	1:
 		Forms:
 			69 eat
@@ -3216,6 +5052,12 @@ eat.v:
 			36 like
 			34 said
 			32 n't
+		Nearby stems:
+			42 .
+			36 and
+			30 to
+			29 ,
+			23 the
 	3:
 		Forms:
 			6 eat
@@ -3226,6 +5068,12 @@ eat.v:
 			4 like
 			4 howev
 			4 one
+		Nearby stems:
+			3 into
+			3 ,
+			2 and
+			2 to
+			1 it
 	6:
 		Forms:
 			13 eat
@@ -3238,6 +5086,12 @@ eat.v:
 			12 pub
 			9 n't
 			7 peopl
+		Nearby stems:
+			12 ,
+			8 to
+			7 and
+			5 .
+			3 ?
 operate.v:
 	1:
 		Forms:
@@ -3249,6 +5103,12 @@ operate.v:
 			5 conscious
 			4 emerg
 			4 system
+		Nearby stems:
+			4 in
+			2 is
+			2 .
+			1 dimens
+			1 a
 	2:
 		Forms:
 			10 operate
@@ -3261,6 +5121,12 @@ operate.v:
 			9 one
 			7 use
 			7 system
+		Nearby stems:
+			5 the
+			4 in
+			4 .
+			3 they
+			3 with
 	5:
 		Forms:
 			9 operated
@@ -3272,6 +5138,12 @@ operate.v:
 			9 pump
 			9 bar
 			7 home
+		Nearby stems:
+			6 by
+			5 the
+			4 pump
+			3 -
+			3 ,
 difference.n:
 	0:
 		Forms:
@@ -3282,6 +5154,12 @@ difference.n:
 			4 neela
 			3 mode
 			2 assimil
+		Nearby stems:
+			2 .
+			2 thi
+			2 the
+			1 what
+			1 of
 	1:
 		Forms:
 			66 difference
@@ -3292,6 +5170,12 @@ difference.n:
 			47 differ
 			43 reader
 			35 work
+		Nearby stems:
+			74 between
+			68 the
+			25 and
+			13 ,
+			11 a
 	2:
 		Forms:
 			21 differences
@@ -3302,6 +5186,12 @@ difference.n:
 			17 parti
 			11 one
 			11 differ
+		Nearby stems:
+			9 between
+			9 the
+			5 and
+			5 of
+			4 .
 	3:
 		Forms:
 			28 difference
@@ -3312,6 +5202,12 @@ difference.n:
 			17 differ
 			15 knowledg
 			15 like
+		Nearby stems:
+			16 the
+			7 of
+			7 .
+			6 ,
+			6 a
 	4:
 		Forms:
 			33 difference
@@ -3322,6 +5218,12 @@ difference.n:
 			34 cent
 			18 differ
 			17 's
+		Nearby stems:
+			24 the
+			13 between
+			8 in
+			6 of
+			4 )
 	5:
 		Forms:
 			43 difference
@@ -3332,6 +5234,12 @@ difference.n:
 			20 differ
 			19 one
 			17 time
+		Nearby stems:
+			23 the
+			16 .
+			10 a
+			9 to
+			9 in
 encounter.v:
 	1:
 		Forms:
@@ -3345,6 +5253,12 @@ encounter.v:
 			23 time
 			23 like
 			17 even
+		Nearby stems:
+			13 in
+			13 a
+			11 the
+			8 ,
+			7 first
 	2:
 		Forms:
 			2 encountered
@@ -3354,6 +5268,12 @@ encounter.v:
 			2 austria
 			2 fought
 			2 's
+		Nearby stems:
+			2 they
+			1 vehicl
+			1 lead
+			1 fierc
+			1 resist
 	3:
 		Forms:
 			34 encountered
@@ -3366,6 +5286,12 @@ encounter.v:
 			17 work
 			16 one
 			15 difficulti
+		Nearby stems:
+			12 the
+			11 problem
+			9 in
+			7 and
+			7 a
 	4:
 		Forms:
 			4 encountered
@@ -3377,6 +5303,12 @@ encounter.v:
 			4 go
 			4 day
 			4 british
+		Nearby stems:
+			4 the
+			3 of
+			2 in
+			2 ,
+			1 old
 smell.v:
 	0:
 		Forms:
@@ -3387,6 +5319,12 @@ smell.v:
 			2 like
 			2 meet
 			2 hello
+		Nearby stems:
+			2 i
+			1 a
+			1 knock
+			1 sure
+			1 off
 	1:
 		Forms:
 			29 smell
@@ -3400,6 +5338,12 @@ smell.v:
 			19 could
 			12 one
 			11 see
+		Nearby stems:
+			20 the
+			13 ,
+			8 can
+			6 could
+			5 now
 	2:
 		Forms:
 			2 smelling
@@ -3409,6 +5353,12 @@ smell.v:
 			3 may
 			2 activ
 			2 watch
+		Nearby stems:
+			3 ,
+			1 detect
+			1 to
+			1 their
+			1 fragranc
 	3:
 		Forms:
 			7 smell
@@ -3419,6 +5369,12 @@ smell.v:
 			5 fund
 			4 countri
 			4 well
+		Nearby stems:
+			3 i
+			2 .
+			2 a
+			2 of
+			2 will
 	4:
 		Forms:
 			18 smelling
@@ -3431,6 +5387,12 @@ smell.v:
 			17 smell
 			15 good
 			15 look
+		Nearby stems:
+			11 -
+			10 ,
+			10 of
+			9 and
+			9 it
 	5:
 		Forms:
 			2 smell
@@ -3442,6 +5404,12 @@ smell.v:
 			2 one
 			2 want
 			2 make
+		Nearby stems:
+			2 .
+			2 as
+			1 and
+			1 do
+			1 what
 	6:
 		Forms:
 			5 smelled
@@ -3453,6 +5421,12 @@ smell.v:
 			4 said
 			4 look
 			3 past
+		Nearby stems:
+			10 of
+			3 and
+			3 .
+			2 place
+			1 it
 plan.n:
 	0:
 		Forms:
@@ -3464,6 +5438,12 @@ plan.n:
 			4 bitter
 			3 help
 			3 littl
+		Nearby stems:
+			4 the
+			2 ,
+			2 .
+			2 plant
+			1 and
 	1:
 		Forms:
 			15 plans
@@ -3474,6 +5454,12 @@ plan.n:
 			20 work
 			11 clock
 			11 pub
+		Nearby stems:
+			10 ,
+			8 the
+			7 and
+			4 .
+			3 show
 	2:
 		Forms:
 			75 plan
@@ -3484,6 +5470,12 @@ plan.n:
 			50 said
 			44 would
 			39 plan
+		Nearby stems:
+			44 to
+			35 the
+			22 for
+			22 a
+			17 .
 	3:
 		Forms:
 			23 plan
@@ -3494,3 +5486,9 @@ plan.n:
 			14 histor
 			12 open
 			11 interior
+		Nearby stems:
+			8 for
+			7 the
+			6 -
+			4 to
+			4 a

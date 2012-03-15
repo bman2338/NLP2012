@@ -28,14 +28,23 @@ for line in open("Data/train.data"):
         if (word[0] != '@'): # not the word we're analyzing
             word = stemmer.stem(word)
             for sense in senses:
-                sensemap = currentmap.setdefault(sense, {'form' : {}, 'words' : {}})
+                sensemap = currentmap.setdefault(sense, {'form' : {}, 'words' : {}, 'nearby': {}})
                 count = sensemap['words'].setdefault(word, 0)
                 sensemap['words'][word] = count + 1
         else:
             for sense in senses:
-                sensemap = currentmap.setdefault(sense, {'form' : {}, 'words' : {}})
+                sensemap = currentmap.setdefault(sense, {'form' : {}, 'words' : {}, 'nearby': {}})
                 count = sensemap['form'].setdefault(word.strip('@'), 0)
                 sensemap['form'][word.strip('@')] = count + 1
+				
+                # include all words within two words of the target
+                for index in range(max(0, x-2), min(len(words), x+3)): 
+                    if index == x-1: # don't include target word
+                        continue
+                    nearword = stemmer.stem(words[index].lower())
+                    count = sensemap['nearby'].setdefault(nearword, 0)
+                    sensemap['nearby'][nearword] = count + 1
+					
 
 out = open('mostcommon.txt', 'w')
 for word in mappings:
@@ -47,6 +56,9 @@ for word in mappings:
             out.write("\t\t\t" + str(form[1]) + " " + form[0] + "\n")
         out.write("\t\tRelated stems:\n")
         for words in sorted(mappings[word][sense]['words'].items(), key = lambda x : -x[1])[:5]:
+            out.write("\t\t\t" + str(words[1]) + " " + words[0] + "\n")
+        out.write("\t\tNearby stems:\n")
+        for words in sorted(mappings[word][sense]['nearby'].items(), key = lambda x : -x[1])[:5]:
             out.write("\t\t\t" + str(words[1]) + " " + words[0] + "\n")
 out.close()
         
