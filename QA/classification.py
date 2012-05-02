@@ -9,6 +9,7 @@ from sets import Set
 from subprocess import call
 
 types=defaultdict(str)
+stemmer = nltk.PorterStemmer() 
 stopwords = nltk.corpus.stopwords.words('english')
 tokenizer = PunktSentenceTokenizer()
 
@@ -36,6 +37,87 @@ def getSentences(number):
         
     return sentences
             
+            
+def cosineSim(questionTerms,questionSynonyms,sentences):                        
+    questionVector={}
+    for term in questionTerms:
+        if term in questionVector:
+            questionVector[term]+=1
+        else:
+            questionVector[term]=1
+    for term in questionSynonyms:
+        if term in questionVector:
+            questionVector[term]+=1
+        else:
+            questionVector[term]=1
+    
+    allvectors=[]
+    for sentence in sentences:
+        sentence=re.findall('[a-zA-Z][0-9a-zA-Z\.\-\&\']*',sentence)
+        sentenceVector={}
+        for word in sentence:
+            if word in sentenceVector:
+                sentenceVector[word]+=1
+            else:
+                sentenceVector[word]=1
+        allvectors.append(sentenceVector)       
+
+    sumFrequency=0
+    for term,frequency in questionVector.iteritems():
+        sumFrequency+=pow(frequency,2)
+    for term,frequency in questionVector.iteritems():
+        frequency=float(frequency)/float(sumFrequency)
+        questionVector[term]=frequency
+    for sentencedict in allvectors:
+        for term,frequency in sentencedict.iteritems():
+            sumFrequency+=pow(frequency,2)
+        for term,frequency in sentencedict.iteritems():
+            frequency=float(frequency)/float(sumFrequency)
+            sentencedict[term]=frequency
+    simScores=[]
+    for sentencedict in allvectors:
+        dotProduct=0
+        for word,value in sentencedict.iteritems():
+            if word in questionVector:
+                dotProduct+=float(value)*float(questionVector[word])
+        simScores.append((dotProduct))#, sentencedict))
+    return simScores                                     ## Array containing the similarity scores for each sentence
+
+def simpleSim(questionTerms,questionSynonyms,sentences):
+    simScores = []
+    stemmedQuestionTerms = []
+    stemmedQuestionSynonyms = []
+    
+    for word in questionTerms:
+        if word.islower():
+            stemmedQuestionTerms.append(stemmer.stem(word))
+        else:
+            stemmedQuestionTerms.append(word)
+    for word in questionSynonyms:
+        stemmedQuestionSynonyms.append(stemmer.stem(word))
+                
+    for sentence in sentences:
+               
+        if "On this date:" in sentence:
+            pass
+    
+        score = 0
+        sentence=re.findall('[a-zA-Z][0-9a-zA-Z\.\-\&\']*',sentence)
+        stemmedsentence = map(lambda word : stemmer.stem(word.lower()), sentence)
+ 
+        for term in stemmedQuestionTerms:
+            if not term.islower() and term in sentence:
+                score += 5
+            elif term.islower() and stemmer.stem(term) in stemmedsentence:
+                score += 3
+        for term in stemmedQuestionSynonyms:
+            if stemmer.stem(term) in stemmedsentence:
+                score += 1
+                
+        simScores.append(score)
+    
+    return simScores
+            
 
 def classify(type, question, number):
     questionTerms = Set()
@@ -47,7 +129,7 @@ def classify(type, question, number):
             continue
         
         if not word.islower():
-            questionTerms.add(word.lower())
+            questionTerms.add(word)
             continue        
         
         questionTerms.add(word)
@@ -57,10 +139,22 @@ def classify(type, question, number):
                 questionSynonyms.add(lemmaname.lower())
         questionSynonyms.discard(word)
 
-    print question, questionTerms, questionSynonyms
+    #print question#, questionTerms, questionSynonyms
+    sentences = getSentences(number)
+    similarities = simpleSim(questionTerms, questionSynonyms, sentences)
         
     if type == "what":
-        pass
+        print question
+        both = []
+        for x in range(len(sentences)):
+            both.append((sentences[x], similarities[x]))
+        sort = sorted(both, key = lambda x : -x[1])
+        if sort[0][1] != 0:
+            for i in range(1):
+                print "\t" + sort[i][0], sort[i][1]
+                print
+        else:
+            print "None"
     
     elif type == "name":
         pass
